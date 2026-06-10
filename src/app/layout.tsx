@@ -9,9 +9,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "VIA Health Austria — Gesundheit verstehen. Den nächsten Schritt finden.",
+  title: "WohinMedizin.at — Wissen, wohin bei Gesundheitsfragen.",
   description:
-    "VIA Health Austria hilft dir, Gesundheitsfragen besser zu verstehen, passende Fachrichtungen zu erkennen und geeignete Anlaufstellen in Österreich zu finden.",
+    "WohinMedizin.at hilft dir, Beschwerden besser zu verstehen, passende Fachrichtungen zu erkennen und geeignete medizinische Anlaufstellen in Österreich zu finden.",
 };
 
 export default function RootLayout({

@@ -19,7 +19,7 @@ export default buildConfig({
   admin: {
     user: Users.slug,
     meta: {
-      titleSuffix: '— VIA Health Austria',
+      titleSuffix: '— WohinMedizin.at',
     },
     importMap: {
       baseDir: path.resolve(dirname),

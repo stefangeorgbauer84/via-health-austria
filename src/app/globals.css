@@ -1,20 +1,20 @@
 @import "tailwindcss";
 
 @theme inline {
-  /* VIA Health Austria Brand Colors */
-  --color-via-navy:         #123047;
-  --color-clinical-blue:    #1E88E5;
-  --color-signal-mint:      #3DDC97;
-  --color-soft-blue:        #F3FAFF;
-  --color-warm-white:       #FFFDF8;
-  --color-alert-coral:      #FF6B6B;
-  --color-rare-violet:      #7C3AED;
+  /* WohinMedizin.at Brand Colors */
+  --color-medizin-navy:       #123047;
+  --color-donau-blau:         #1E88E5;
+  --color-alpen-mint:         #3DDC97;
+  --color-morgen-hellblau:    #F3FAFF;
+  --color-warmweiss:          #FFFDF8;
+  --color-wachsam-koralle:    #FF6B6B;
+  --color-selten-violett:     #7C3AED;
 
   /* Semantic tokens */
-  --color-background:       var(--color-warm-white);
-  --color-foreground:       var(--color-via-navy);
-  --color-muted:            #6B7280;
-  --color-border:           #E5EDF5;
+  --color-background:         var(--color-warmweiss);
+  --color-foreground:         var(--color-medizin-navy);
+  --color-muted:              #6B7280;
+  --color-border:             #E5EDF5;
 
   /* Typography */
   --font-sans: var(--font-inter), system-ui, sans-serif;
@@ -31,18 +31,18 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* VIA Gradient utilities */
-.via-gradient {
+.wohin-gradient {
   background: linear-gradient(135deg, #1E88E5, #3DDC97);
 }
 
-.via-gradient-text {
+.wohin-gradient-text {
   background: linear-gradient(135deg, #1E88E5, #3DDC97);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  display: inline;
 }
 
-.rare-gradient {
+.selten-gradient {
   background: linear-gradient(135deg, #1E88E5, #7C3AED, #3DDC97);
 }
