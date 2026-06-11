@@ -1163,14 +1163,6 @@ export const Diseases: CollectionConfig = {
       hasMany: true,
     },
     {
-      name: 'reviewedAt',
-      type: 'date',
-      label: 'Medizinisch geprüft am',
-      admin: {
-        description: 'Datum der letzten medizinischen Prüfung. Immer öffentlich sichtbar.',
-      },
-    },
-    {
       name: 'nextReviewAt',
       type: 'date',
       label: 'Nächste Überprüfung fällig',

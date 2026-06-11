@@ -114,7 +114,7 @@ const PILOT_DISEASES: Array<{ slug: string; data: Record<string, unknown> }> = [
       primaryEtiology: 'genetic',
       mechanismSubtype: 'monogenic',
       organSystems: ['neurological', 'cardiovascular', 'respiratory'],
-      'modifiers.courseModifier': 'chronic',
+      modifiers: { courseModifier: 'chronic', diagnosticModalities: ['clinical', 'laboratory', 'genetics'] },
       briefDescription: 'Duchenne-Muskeldystrophie (DMD) ist eine seltene genetische Erkrankung, bei der die Muskeln im Laufe der Zeit immer schwächer werden. Sie betrifft fast ausschließlich Jungen und wird durch einen Defekt im Dystrophin-Gen verursacht. Erste Zeichen zeigen sich meist zwischen dem 2. und 5. Lebensjahr — Kinder fallen häufiger hin, haben Schwierigkeiten beim Treppensteigen oder beim Aufstehen vom Boden. DMD ist derzeit nicht heilbar, aber moderne Therapien können den Krankheitsverlauf deutlich verlangsamen.',
       editorialTags: [
         { tag: 'Muskeln' },
@@ -151,6 +151,7 @@ const PILOT_DISEASES: Array<{ slug: string; data: Record<string, unknown> }> = [
       primaryEtiology: 'genetic',
       mechanismSubtype: 'monogenic',
       organSystems: ['cardiovascular', 'musculoskeletal', 'visual'],
+      modifiers: { courseModifier: 'chronic', diagnosticModalities: ['clinical', 'imaging', 'genetics'] },
       briefDescription: 'Das Marfan-Syndrom ist eine genetische Erkrankung des Bindegewebes, die vor allem das Herz, die Augen und das Skelett betrifft. Menschen mit Marfan-Syndrom sind oft ungewöhnlich groß und schlank, haben lange Arme und Finger. Die gefährlichste Komplikation ist eine Erweiterung der Hauptschlagader (Aortenaneurysma), die ohne rechtzeitige Behandlung lebensbedrohlich sein kann. Mit guter medizinischer Betreuung können viele Betroffene ein normales Leben führen.',
       editorialTags: [
         { tag: 'Bindegewebe' },
@@ -187,6 +188,7 @@ const PILOT_DISEASES: Array<{ slug: string; data: Record<string, unknown> }> = [
       primaryEtiology: 'genetic',
       mechanismSubtype: 'enzyme_defect',
       organSystems: ['neurological', 'endocrine_metabolic'],
+      modifiers: { courseModifier: 'chronic', diagnosticModalities: ['laboratory', 'genetics'] },
       briefDescription: 'Phenylketonurie (PKU) ist eine seltene angeborene Stoffwechselerkrankung. Betroffene können die Aminosäure Phenylalanin nicht richtig abbauen — sie sammelt sich im Blut und schädigt das Gehirn. In Österreich wird PKU bei allen Neugeborenen im Fersenbluttest untersucht, sodass die Erkrankung fast immer kurz nach der Geburt entdeckt wird. Mit einer lebenslangen phenylalaninarmen Ernährung und regelmäßiger medizinischer Kontrolle können Betroffene heute ein vollkommen normales Leben führen.',
       editorialTags: [
         { tag: 'Stoffwechsel' },
@@ -222,6 +224,7 @@ const PILOT_DISEASES: Array<{ slug: string; data: Record<string, unknown> }> = [
       primaryEtiology: 'autoimmune',
       mechanismSubtype: 'systemic_autoimmune',
       organSystems: ['hematological_immunological', 'dermatological', 'neurological', 'urogenital', 'cardiovascular'],
+      modifiers: { courseModifier: 'recurrent', diagnosticModalities: ['clinical', 'laboratory', 'imaging'] },
       briefDescription: 'Systemischer Lupus Erythematodes (SLE) ist eine Autoimmunerkrankung, bei der das Immunsystem versehentlich gesundes Körpergewebe angreift. Sie kann praktisch jedes Organ betreffen — Haut, Gelenke, Nieren, Herz, Lunge und das Nervensystem. Das bekannteste Zeichen ist ein schmetterlingsförmiger Ausschlag im Gesicht. SLE verläuft in Schüben mit Phasen der Besserung und Verschlechterung. Die Erkrankung betrifft vor allem Frauen im gebärfähigen Alter. Mit moderner Therapie können die meisten Betroffenen gut leben.',
       editorialTags: [
         { tag: 'Autoimmun' },
@@ -259,6 +262,7 @@ const PILOT_DISEASES: Array<{ slug: string; data: Record<string, unknown> }> = [
       primaryEtiology: 'genetic',
       mechanismSubtype: 'monogenic',
       organSystems: ['respiratory', 'gastrointestinal', 'reproductive'],
+      modifiers: { courseModifier: 'chronic', diagnosticModalities: ['clinical', 'laboratory', 'genetics'] },
       briefDescription: 'Zystische Fibrose (ZF), auch Mukoviszidose genannt, ist die häufigste lebensverkürzende genetische Erkrankung in Europa. Betroffene produzieren einen ungewöhnlich zähen Schleim, der vor allem Lunge und Verdauungssystem verstopft. Das führt zu chronischen Lungeninfektionen und Verdauungsproblemen. In Österreich wird ZF beim Neugeborenen-Screening erkannt. Mit modernen CFTR-Modulatoren (neuen Medikamenten) hat sich die Lebensqualität in den letzten Jahren dramatisch verbessert — viele Betroffene erreichen heute ein normales Erwachsenenalter.',
       editorialTags: [
         { tag: 'Lunge' },
