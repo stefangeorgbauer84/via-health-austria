@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — Wissen, wohin bei Gesundheitsfragen.",
+    "description": "WohinMedizin.at hilft dir, Beschwerden besser zu verstehen, passende Fachrichtungen zu erkennen und geeignete medizinische Anlaufstellen in Österreich zu finden."
+  },
+  "nav": {
+    "symptoms": "Beschwerden",
+    "diseases": "Erkrankungen",
+    "specialties": "Fachrichtungen",
+    "rare": "Seltene Erkrankungen",
+    "forDoctors": "Für Ärzt:innen",
+    "startOrientation": "Orientierung starten"
+  },
+  "hero": {
+    "badge": "Medizinische Orientierung für Österreich",
+    "heading": "Wissen, wohin bei",
+    "headingAccent": "Gesundheitsfragen.",
+    "description": "WohinMedizin.at hilft Ihnen, Beschwerden besser zu verstehen, passende Fachrichtungen zu erkennen und geeignete medizinische Anlaufstellen in Österreich zu finden.",
+    "ctaPrimary": "Orientierung starten",
+    "ctaSecondary": "Gesundheitsthemen entdecken",
+    "noDiagnosis": "Keine Diagnose",
+    "noRegistration": "Keine Pflichtregistrierung",
+    "checkedContent": "Geprüfte Inhalte",
+    "austrianContext": "Österreichischer Kontext"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Keine Diagnose",
+        "text": "WohinMedizin.at erklärt und ordnet ein. Die ärztliche Abklärung bleibt bei Ihrer Ärztin oder Ihrem Arzt."
+      },
+      {
+        "title": "Geprüfte Inhalte",
+        "text": "Medizinische Inhalte werden redaktionell geprüft, mit Quellen versehen und regelmäßig aktualisiert."
+      },
+      {
+        "title": "Datenschutzfreundlich",
+        "text": "Viele Inhalte sind ohne Registrierung nutzbar. Keine Werbung auf Basis Ihrer Gesundheitseingaben."
+      },
+      {
+        "title": "Österreichischer Kontext",
+        "text": "Kassenarzt, Wahlarzt, Überweisung — alle Inhalte beziehen sich auf das österreichische Gesundheitssystem."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "Schnell nachschlagen",
+    "items": [
+      "Bauchschmerzen",
+      "Hautausschlag",
+      "Kopfschmerzen",
+      "Gelenkschmerzen",
+      "Kind krank",
+      "Seltene Erkrankungen",
+      "Kassenarzt oder Wahlarzt?",
+      "Psychische Belastung"
+    ]
+  },
+  "howItWorks": {
+    "heading": "So funktioniert WohinMedizin.at",
+    "subheading": "In drei Schritten von der Unsicherheit zur Orientierung — ohne Diagnoseversprechen.",
+    "steps": [
+      {
+        "title": "Beschwerde oder Frage eingeben",
+        "text": "Beschreiben Sie Ihr Anliegen kurz. Der WohinMedizin Navigator hilft bei der Einordnung."
+      },
+      {
+        "title": "Verständliche Orientierung erhalten",
+        "text": "Sie erhalten mögliche Fachrichtungen, passende Inhalte und Fragen für Ihren nächsten Arzttermin."
+      },
+      {
+        "title": "Den nächsten Schritt finden",
+        "text": "Anlaufstellen, Fachärzt:innen und geprüfte Informationen — alles auf einen Blick."
+      }
+    ],
+    "cta": "Jetzt Orientierung starten"
+  },
+  "specialtiesSection": {
+    "heading": "Fachrichtungen einfach erklärt",
+    "subheading": "Wann ist welche Fachrichtung relevant? Welche Anlaufstelle passt zu Ihrem Anliegen?",
+    "allLink": "Alle Fachrichtungen ansehen",
+    "items": [
+      { "name": "Allgemeinmedizin", "sub": "Erste Anlaufstelle bei unklaren Beschwerden", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "Dermatologie", "sub": "Haut, Haare, Nägel", "href": "/fachrichtungen/dermatologie" },
+      { "name": "Orthopädie", "sub": "Knochen, Gelenke, Muskeln", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "Rheumatologie", "sub": "Entzündliche Erkrankungen", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "Neurologie", "sub": "Nervensystem und Gehirn", "href": "/fachrichtungen/neurologie" },
+      { "name": "Innere Medizin", "sub": "Innere Organe, chronische Erkrankungen", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "Psychiatrie", "sub": "Psychische Gesundheit", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "Kinder- und Jugendheilkunde", "sub": "Medizinische Betreuung für Kinder", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin Selten",
+    "heading": "Wenn der Weg länger ist, braucht es bessere Orientierung.",
+    "text": "Wenn Beschwerden lange ungeklärt bleiben, bündelt WohinMedizin Selten Informationen, spezialisierte Anlaufstellen und Fragen für den nächsten Arzttermin.",
+    "cta": "Zu WohinMedizin Selten"
+  },
+  "faqsSection": {
+    "heading": "Häufige Gesundheitsfragen",
+    "subheading": "Verständliche Antworten auf häufige Unsicherheiten im österreichischen Gesundheitssystem.",
+    "items": [
+      { "q": "Wann zur Dermatologie?", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "Wann zur Rheumatologie?", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "Wann reicht die Hausärztin?", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "Kassenarzt vs. Wahlarzt — der Unterschied", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "Wie funktioniert eine Überweisung?", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "Wann rasch medizinische Hilfe holen?", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "Für Ärzt:innen und Gesundheitsanbieter",
+    "heading": "Sichtbar dort, wo medizinische Orientierung gesucht wird.",
+    "description": "WohinMedizin.at verbindet geprüfte Gesundheitsinformationen mit Facharztprofilen. Stellen Sie Ihre Schwerpunkte, Leistungen und Ordinationsdaten dort dar, wo Menschen aktiv nach Orientierung zu Beschwerden und Fachrichtungen suchen.",
+    "features": [
+      "Verifiziertes Facharztprofil",
+      "Sichtbarkeit im passenden Themenumfeld",
+      "Darstellung fachlicher Schwerpunkte",
+      "Regionale Auffindbarkeit",
+      "Keine Buchungsprovision"
+    ],
+    "cta": "Profil anlegen",
+    "profiles": [
+      { "label": "Basisprofil", "detail": "Kostenlos — Grunddaten, Fachrichtung, Kontakt" },
+      { "label": "Verifiziertes Profil", "detail": "Geprüfte Angaben, Schwerpunkte, Logo" },
+      { "label": "Spezialist:innenprofil Plus", "detail": "Sichtbarkeit in passenden Artikeln und Themen" }
+    ]
+  },
+  "partnerNote": "Einige Themenbereiche werden von Partnern unterstützt. Die redaktionelle Verantwortung liegt bei WohinMedizin.at. Partnerinhalte werden klar gekennzeichnet und beeinflussen keine Orientierungsergebnisse.",
+  "mobileCta": {
+    "startOrientation": "Orientierung starten",
+    "callLabel": "Anrufen"
+  },
+  "footer": {
+    "tagline": "Wissen, wohin\nbei Gesundheitsfragen.",
+    "themesHeading": "Themen",
+    "platformHeading": "Plattform",
+    "legalHeading": "Rechtliches",
+    "symptoms": "Beschwerden",
+    "diseases": "Erkrankungen",
+    "specialties": "Fachrichtungen",
+    "rare": "Seltene Erkrankungen",
+    "healthSystem": "Gesundheitssystem AT",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "Für Ärzt:innen",
+    "forPartners": "Für Partner",
+    "about": "Über WohinMedizin.at",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum",
+    "terms": "Nutzungsbedingungen",
+    "copyright": "© 2026 WohinMedizin.at. Keine Diagnose. Keine ärztliche Beratung.",
+    "checkedContent": "Geprüfte Inhalte. Österreichischer Gesundheitskontext."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "Wohin soll ich mich wenden?",
+    "description": "Beschreibe dein Anliegen — wir zeigen dir mögliche erste Anlaufstellen. Keine Diagnose, keine Wertung. Erste Orientierung.",
+    "placeholder": "z.B. Ich habe seit zwei Wochen Kopfschmerzen, besonders morgens. Manchmal auch Schwindel.",
+    "charCount": "{count} Zeichen",
+    "inputHint": "Bitte auf Deutsch",
+    "analyzing": "Analysiere…",
+    "submit": "Orientierung erhalten",
+    "loadingText": "Orientierung wird aufbereitet…",
+    "firstContactLabel": "Erste Anlaufstelle",
+    "specialtiesLabel": "Mögliche Fachrichtungen",
+    "redFlagsLabel": "Sofort zum Arzt wenn…",
+    "nextStepsLabel": "Nächste Schritte",
+    "newQuery": "Neues Anliegen eingeben",
+    "noStorage": "Deine Eingabe wird nicht gespeichert. Keine Diagnose, keine automatisierte medizinische Entscheidung. Sponsoring beeinflusst keine Ergebnisse.",
+    "errorFallback": "Ein Fehler ist aufgetreten.",
+    "noResponse": "Keine Antwort erhalten."
+  },
+  "specialist": {
+    "verifiedProfile": "Verifiziertes Profil",
+    "callPractice": "Ordination anrufen",
+    "visitWebsite": "Website besuchen",
+    "focusAreasHeading": "Behandlungsschwerpunkte",
+    "appointmentHeading": "So läuft Ihr Termin ab",
+    "insuranceHeading": "Kosten und Kassenstatus",
+    "insuranceNote": "Bitte bringen Sie zum Ersttermin vorhandene Befunde, eine aktuelle Medikamentenliste und Ihre e-card mit. Bei Fragen zu Kosten und Rückerstattung wenden Sie sich bitte direkt an die Ordination.",
+    "profileDisclaimer": "Dieses Profil wird von WohinMedizin.at bereitgestellt. Die Angaben basieren auf den vom Anbieter zur Verfügung gestellten Informationen. WohinMedizin.at übernimmt keine Haftung für die Richtigkeit und Vollständigkeit. Dieses Profil ersetzt keine ärztliche Beratung.",
+    "contactHeading": "Kontakt & Ordination",
+    "callNow": "Jetzt anrufen",
+    "allSpecialists": "Alle Spezialist:innen",
+    "insuranceKasseUndWahl": "Kassenarzt und Wahlarzt",
+    "insuranceKasse": "Kassenarzt",
+    "insuranceWahl": "Wahlarzt",
+    "insurancePrivat": "Privatarzt"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Sprache wählen",
+    "currentLanguage": "Deutsch",
+    "officialGroup": "Amtssprache",
+    "minorityGroup": "Minderheitensprachen",
+    "migrationGroup": "Migrationssprachen",
+    "internationalGroup": "International"
+  }
+}

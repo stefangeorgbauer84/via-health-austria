@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — Wiedz, gdzie się udać z pytaniami zdrowotnymi.",
+    "description": "WohinMedizin.at pomaga lepiej zrozumieć dolegliwości, rozpoznać odpowiednią specjalizację medyczną i znaleźć odpowiednich świadczeniodawców w Austrii."
+  },
+  "nav": {
+    "symptoms": "Objawy",
+    "diseases": "Choroby",
+    "specialties": "Specjalizacje",
+    "rare": "Rzadkie choroby",
+    "forDoctors": "Dla lekarzy",
+    "startOrientation": "Znajdź wskazówki"
+  },
+  "hero": {
+    "badge": "Orientacja medyczna dla Austrii",
+    "heading": "Wiedz, gdzie się udać z",
+    "headingAccent": "pytaniami zdrowotnymi.",
+    "description": "WohinMedizin.at pomaga lepiej zrozumieć dolegliwości, rozpoznać odpowiednią specjalizację medyczną i znaleźć odpowiednich świadczeniodawców w Austrii.",
+    "ctaPrimary": "Znajdź wskazówki",
+    "ctaSecondary": "Odkryj tematy zdrowotne",
+    "noDiagnosis": "Bez diagnozy",
+    "noRegistration": "Rejestracja niewymagana",
+    "checkedContent": "Zweryfikowane treści",
+    "austrianContext": "Kontekst austriacki"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Bez diagnozy",
+        "text": "WohinMedizin.at wyjaśnia i ukierunkowuje. Diagnozę medyczną stawia Twój lekarz."
+      },
+      {
+        "title": "Zweryfikowane treści",
+        "text": "Treści medyczne są sprawdzane redakcyjnie, opatrzone źródłami i regularnie aktualizowane."
+      },
+      {
+        "title": "Przyjazne dla prywatności",
+        "text": "Wiele treści dostępnych bez rejestracji. Brak reklam opartych na Twoich danych zdrowotnych."
+      },
+      {
+        "title": "Kontekst austriacki",
+        "text": "Kassenarzt, Wahlarzt, skierowanie — wszystkie treści dotyczą austriackiego systemu ochrony zdrowia."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "Szybkie wyszukiwanie",
+    "items": [
+      "Ból brzucha",
+      "Wysypka skórna",
+      "Ból głowy",
+      "Ból stawów",
+      "Chore dziecko",
+      "Rzadkie choroby",
+      "Lekarz NFZ czy prywatny?",
+      "Zdrowie psychiczne"
+    ]
+  },
+  "howItWorks": {
+    "heading": "Jak działa WohinMedizin.at",
+    "subheading": "Trzy kroki od niepewności do orientacji — bez obietnic diagnostycznych.",
+    "steps": [
+      {
+        "title": "Wprowadź swoją dolegliwość lub pytanie",
+        "text": "Krótko opisz swoją dolegliwość. WohinMedizin Navigator pomaga w kategoryzacji."
+      },
+      {
+        "title": "Otrzymaj jasne wskazówki",
+        "text": "Otrzymujesz możliwe specjalizacje, odpowiednie treści i pytania na następną wizytę lekarską."
+      },
+      {
+        "title": "Znajdź następny krok",
+        "text": "Punkty kontaktowe, specjaliści i zweryfikowane informacje — wszystko w jednym miejscu."
+      }
+    ],
+    "cta": "Zacznij szukać wskazówek teraz"
+  },
+  "specialtiesSection": {
+    "heading": "Specjalizacje medyczne w prostym wyjaśnieniu",
+    "subheading": "Kiedy która specjalizacja jest odpowiednia? Który punkt kontaktowy pasuje do Twojej dolegliwości?",
+    "allLink": "Zobacz wszystkie specjalizacje",
+    "items": [
+      { "name": "Medycyna ogólna", "sub": "Pierwszy punkt kontaktu przy niejasnych objawach", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "Dermatologia", "sub": "Skóra, włosy, paznokcie", "href": "/fachrichtungen/dermatologie" },
+      { "name": "Ortopedia", "sub": "Kości, stawy, mięśnie", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "Reumatologia", "sub": "Choroby zapalne", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "Neurologia", "sub": "Układ nerwowy i mózg", "href": "/fachrichtungen/neurologie" },
+      { "name": "Medycyna wewnętrzna", "sub": "Narządy wewnętrzne, choroby przewlekłe", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "Psychiatria", "sub": "Zdrowie psychiczne", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "Pediatria", "sub": "Opieka medyczna dla dzieci", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin Rzadkie choroby",
+    "heading": "Gdy droga jest dłuższa, potrzebna jest lepsza orientacja.",
+    "text": "Gdy dolegliwości długo pozostają niewyjaśnione, WohinMedizin Rzadkie choroby gromadzi informacje, wyspecjalizowane punkty kontaktowe i pytania na następną wizytę lekarską.",
+    "cta": "Przejdź do WohinMedizin Rzadkie choroby"
+  },
+  "faqsSection": {
+    "heading": "Częste pytania zdrowotne",
+    "subheading": "Zrozumiałe odpowiedzi na częste wątpliwości dotyczące austriackiego systemu ochrony zdrowia.",
+    "items": [
+      { "q": "Kiedy do dermatologa?", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "Kiedy do reumatologa?", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "Kiedy wystarczy lekarz pierwszego kontaktu?", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "Lekarz NFZ vs. prywatny — różnica", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "Jak działa skierowanie?", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "Kiedy szybko szukać pomocy medycznej?", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "Dla lekarzy i świadczeniodawców",
+    "heading": "Widoczny tam, gdzie szuka się orientacji medycznej.",
+    "description": "WohinMedizin.at łączy zweryfikowane informacje zdrowotne z profilami specjalistów. Przedstaw swoje obszary specjalizacji, usługi i dane gabinetu tam, gdzie ludzie aktywnie szukają wskazówek dotyczących dolegliwości i specjalizacji.",
+    "features": [
+      "Zweryfikowany profil specjalisty",
+      "Widoczność w odpowiednich obszarach tematycznych",
+      "Prezentacja specjalistycznych obszarów pracy",
+      "Regionalna wyszukiwalność",
+      "Brak prowizji za rezerwację"
+    ],
+    "cta": "Utwórz profil",
+    "profiles": [
+      { "label": "Profil podstawowy", "detail": "Bezpłatnie — podstawowe dane, specjalizacja, kontakt" },
+      { "label": "Profil zweryfikowany", "detail": "Sprawdzone informacje, obszary specjalizacji, logo" },
+      { "label": "Profil Specjalisty Plus", "detail": "Widoczność w odpowiednich artykułach i tematach" }
+    ]
+  },
+  "partnerNote": "Niektóre obszary tematyczne są wspierane przez partnerów. Odpowiedzialność redakcyjna leży po stronie WohinMedizin.at. Treści partnerów są wyraźnie oznaczone i nie wpływają na wyniki orientacji.",
+  "mobileCta": {
+    "startOrientation": "Znajdź wskazówki",
+    "callLabel": "Zadzwoń"
+  },
+  "footer": {
+    "tagline": "Wiedz, gdzie się udać\nz pytaniami zdrowotnymi.",
+    "themesHeading": "Tematy",
+    "platformHeading": "Platforma",
+    "legalHeading": "Prawne",
+    "symptoms": "Objawy",
+    "diseases": "Choroby",
+    "specialties": "Specjalizacje",
+    "rare": "Rzadkie choroby",
+    "healthSystem": "Austriacki system ochrony zdrowia",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "Dla lekarzy",
+    "forPartners": "Dla partnerów",
+    "about": "O WohinMedizin.at",
+    "privacy": "Polityka prywatności",
+    "imprint": "Impressum",
+    "terms": "Warunki użytkowania",
+    "copyright": "© 2026 WohinMedizin.at. Bez diagnozy. Bez porady medycznej.",
+    "checkedContent": "Zweryfikowane treści. Austriacki kontekst zdrowotny."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "Gdzie powinienem się udać?",
+    "description": "Opisz swoją dolegliwość — pokażemy Ci możliwe pierwsze punkty kontaktowe. Bez diagnozy, bez oceny. Wstępna orientacja.",
+    "placeholder": "np. Mam bóle głowy od dwóch tygodni, zwłaszcza rano. Czasami też zawroty głowy.",
+    "charCount": "{count} znaków",
+    "inputHint": "Proszę opisać po niemiecku lub angielsku",
+    "analyzing": "Analizowanie…",
+    "submit": "Uzyskaj wskazówki",
+    "loadingText": "Przygotowywanie orientacji…",
+    "firstContactLabel": "Pierwszy punkt kontaktowy",
+    "specialtiesLabel": "Możliwe specjalizacje",
+    "redFlagsLabel": "Natychmiast do lekarza jeśli…",
+    "nextStepsLabel": "Następne kroki",
+    "newQuery": "Wprowadź nową dolegliwość",
+    "noStorage": "Twój wpis nie jest przechowywany. Bez diagnozy, bez automatycznych decyzji medycznych. Sponsorowanie nie wpływa na wyniki.",
+    "errorFallback": "Wystąpił błąd.",
+    "noResponse": "Nie otrzymano odpowiedzi."
+  },
+  "specialist": {
+    "verifiedProfile": "Zweryfikowany profil",
+    "callPractice": "Zadzwoń do gabinetu",
+    "visitWebsite": "Odwiedź stronę internetową",
+    "focusAreasHeading": "Obszary leczenia",
+    "appointmentHeading": "Jak przebiega Twoja wizyta",
+    "insuranceHeading": "Koszty i status ubezpieczenia",
+    "insuranceNote": "Na pierwszą wizytę przynieś istniejące wyniki badań, aktualną listę leków i swoją e-card. W sprawach kosztów i refundacji skontaktuj się bezpośrednio z gabinetem.",
+    "profileDisclaimer": "Ten profil jest udostępniany przez WohinMedizin.at. Dane opierają się na informacjach dostarczonych przez usługodawcę. WohinMedizin.at nie ponosi odpowiedzialności za dokładność i kompletność. Ten profil nie zastępuje porady lekarskiej.",
+    "contactHeading": "Kontakt i gabinet",
+    "callNow": "Zadzwoń teraz",
+    "allSpecialists": "Wszyscy specjaliści",
+    "insuranceKasseUndWahl": "Kassenarzt i Wahlarzt",
+    "insuranceKasse": "Kassenarzt",
+    "insuranceWahl": "Wahlarzt",
+    "insurancePrivat": "Lekarz prywatny"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Wybierz język",
+    "currentLanguage": "Polski",
+    "officialGroup": "Język urzędowy",
+    "minorityGroup": "Języki mniejszościowe",
+    "migrationGroup": "Języki migracji",
+    "internationalGroup": "Międzynarodowy"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — Știți unde să mergeți cu întrebările dvs. de sănătate.",
+    "description": "WohinMedizin.at vă ajută să înțelegeți simptomele, să identificați specialitatea medicală potrivită și să găsiți furnizori de servicii medicale adecvați în Austria."
+  },
+  "nav": {
+    "symptoms": "Simptome",
+    "diseases": "Boli",
+    "specialties": "Specialități",
+    "rare": "Boli rare",
+    "forDoctors": "Pentru medici",
+    "startOrientation": "Găsește îndrumare"
+  },
+  "hero": {
+    "badge": "Îndrumare medicală pentru Austria",
+    "heading": "Știți unde să mergeți cu",
+    "headingAccent": "întrebările dvs. de sănătate.",
+    "description": "WohinMedizin.at vă ajută să înțelegeți simptomele, să identificați specialitatea medicală potrivită și să găsiți furnizori de servicii medicale adecvați în Austria.",
+    "ctaPrimary": "Găsește îndrumare",
+    "ctaSecondary": "Explorați teme de sănătate",
+    "noDiagnosis": "Fără diagnostic",
+    "noRegistration": "Înregistrare neobligatorie",
+    "checkedContent": "Conținut verificat",
+    "austrianContext": "Context austriac"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Fără diagnostic",
+        "text": "WohinMedizin.at explică și îndrumă. Diagnosticul medical rămâne la medicul dumneavoastră."
+      },
+      {
+        "title": "Conținut verificat",
+        "text": "Conținuturile medicale sunt verificate editorial, cu surse și actualizate regulat."
+      },
+      {
+        "title": "Confidențialitate",
+        "text": "Multe conținuturi sunt disponibile fără înregistrare. Nicio publicitate bazată pe datele dvs. de sănătate."
+      },
+      {
+        "title": "Context austriac",
+        "text": "Kassenarzt, Wahlarzt, trimitere — toate conținuturile se referă la sistemul de sănătate austriac."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "Căutare rapidă",
+    "items": [
+      "Dureri abdominale",
+      "Erupție cutanată",
+      "Dureri de cap",
+      "Dureri articulare",
+      "Copil bolnav",
+      "Boli rare",
+      "Medic asigurat sau privat?",
+      "Sănătate mintală"
+    ]
+  },
+  "howItWorks": {
+    "heading": "Cum funcționează WohinMedizin.at",
+    "subheading": "Trei pași de la incertitudine la orientare — fără promisiuni de diagnostic.",
+    "steps": [
+      {
+        "title": "Introduceți problema sau întrebarea dvs.",
+        "text": "Descrieți pe scurt problema dvs. WohinMedizin Navigator ajută la categorizare."
+      },
+      {
+        "title": "Primiți o îndrumare clară",
+        "text": "Veți primi specialități posibile, conținuturi relevante și întrebări pentru următoarea consultație medicală."
+      },
+      {
+        "title": "Găsiți pasul următor",
+        "text": "Puncte de contact, specialiști și informații verificate — totul într-un singur loc."
+      }
+    ],
+    "cta": "Începeți să căutați îndrumare acum"
+  },
+  "specialtiesSection": {
+    "heading": "Specialitățile medicale explicate simplu",
+    "subheading": "Când este relevantă care specialitate? Ce punct de contact se potrivește problemei dvs.?",
+    "allLink": "Vizualizați toate specialitățile",
+    "items": [
+      { "name": "Medicină generală", "sub": "Primul punct de contact pentru simptome neclare", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "Dermatologie", "sub": "Piele, păr, unghii", "href": "/fachrichtungen/dermatologie" },
+      { "name": "Ortopedie", "sub": "Oase, articulații, mușchi", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "Reumatologie", "sub": "Boli inflamatorii", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "Neurologie", "sub": "Sistemul nervos și creierul", "href": "/fachrichtungen/neurologie" },
+      { "name": "Medicină internă", "sub": "Organe interne, boli cronice", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "Psihiatrie", "sub": "Sănătate mintală", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "Pediatrie", "sub": "Îngrijire medicală pentru copii", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin Boli rare",
+    "heading": "Când drumul este mai lung, este nevoie de o îndrumare mai bună.",
+    "text": "Când simptomele rămân neexplicate mult timp, WohinMedizin Boli rare reunește informații, puncte de contact specializate și întrebări pentru următoarea consultație medicală.",
+    "cta": "Mergeți la WohinMedizin Boli rare"
+  },
+  "faqsSection": {
+    "heading": "Întrebări frecvente de sănătate",
+    "subheading": "Răspunsuri clare la nelămuririle frecvente despre sistemul de sănătate austriac.",
+    "items": [
+      { "q": "Când să mergeți la dermatolog?", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "Când să mergeți la reumatolog?", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "Când este suficient medicul de familie?", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "Medic asigurat vs. privat — diferența", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "Cum funcționează trimiterea?", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "Când să căutați ajutor medical urgent?", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "Pentru medici și furnizori de servicii medicale",
+    "heading": "Vizibil acolo unde se caută îndrumare medicală.",
+    "description": "WohinMedizin.at conectează informațiile de sănătate verificate cu profilurile specialiștilor. Prezentați-vă domeniile de specializare, serviciile și datele cabinetului acolo unde oamenii caută activ îndrumare despre simptome și specialități.",
+    "features": [
+      "Profil de specialist verificat",
+      "Vizibilitate în domenii tematice relevante",
+      "Prezentarea domeniilor de specializare",
+      "Găsibilitate regională",
+      "Fără comision de rezervare"
+    ],
+    "cta": "Creați profil",
+    "profiles": [
+      { "label": "Profil de bază", "detail": "Gratuit — date de bază, specialitate, contact" },
+      { "label": "Profil verificat", "detail": "Informații verificate, domenii de specializare, logo" },
+      { "label": "Profil Specialist Plus", "detail": "Vizibilitate în articole și teme relevante" }
+    ]
+  },
+  "partnerNote": "Unele domenii tematice sunt susținute de parteneri. Responsabilitatea editorială revine WohinMedizin.at. Conținutul partenerilor este clar etichetat și nu influențează rezultatele îndrumării.",
+  "mobileCta": {
+    "startOrientation": "Găsește îndrumare",
+    "callLabel": "Apelați"
+  },
+  "footer": {
+    "tagline": "Știți unde să mergeți\ncu întrebările dvs. de sănătate.",
+    "themesHeading": "Subiecte",
+    "platformHeading": "Platformă",
+    "legalHeading": "Legal",
+    "symptoms": "Simptome",
+    "diseases": "Boli",
+    "specialties": "Specialități",
+    "rare": "Boli rare",
+    "healthSystem": "Sistemul de sănătate austriac",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "Pentru medici",
+    "forPartners": "Pentru parteneri",
+    "about": "Despre WohinMedizin.at",
+    "privacy": "Politica de confidențialitate",
+    "imprint": "Impressum",
+    "terms": "Termeni de utilizare",
+    "copyright": "© 2026 WohinMedizin.at. Fără diagnostic. Fără sfat medical.",
+    "checkedContent": "Conținut verificat. Context de sănătate austriac."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "Unde ar trebui să mă adresez?",
+    "description": "Descrieți problema dvs. — vă vom arăta primele puncte de contact posibile. Fără diagnostic, fără judecată. Orientare inițială.",
+    "placeholder": "de ex. Am dureri de cap de două săptămâni, mai ales dimineața. Uneori și amețeli.",
+    "charCount": "{count} caractere",
+    "inputHint": "Vă rugăm să descrieți în germană sau engleză",
+    "analyzing": "Se analizează…",
+    "submit": "Obțineți îndrumare",
+    "loadingText": "Se pregătește orientarea…",
+    "firstContactLabel": "Primul punct de contact",
+    "specialtiesLabel": "Specialități posibile",
+    "redFlagsLabel": "Mergeți imediat la medic dacă…",
+    "nextStepsLabel": "Pașii următori",
+    "newQuery": "Introduceți o nouă problemă",
+    "noStorage": "Introducerea dvs. nu este stocată. Fără diagnostic, fără decizie medicală automatizată. Sponsorizarea nu influențează rezultatele.",
+    "errorFallback": "A apărut o eroare.",
+    "noResponse": "Nu s-a primit niciun răspuns."
+  },
+  "specialist": {
+    "verifiedProfile": "Profil verificat",
+    "callPractice": "Sunați la cabinet",
+    "visitWebsite": "Vizitați site-ul web",
+    "focusAreasHeading": "Domenii de tratament",
+    "appointmentHeading": "Cum decurge consultația dvs.",
+    "insuranceHeading": "Costuri și statut de asigurare",
+    "insuranceNote": "La prima consultație aduceți rezultatele medicale existente, lista actuală de medicamente și e-card-ul dvs. Pentru întrebări despre costuri și rambursări, contactați direct cabinetul.",
+    "profileDisclaimer": "Acest profil este furnizat de WohinMedizin.at. Informațiile se bazează pe datele furnizate de prestator. WohinMedizin.at nu își asumă răspunderea pentru exactitate și completitudine. Acest profil nu înlocuiește consultația medicală.",
+    "contactHeading": "Contact și cabinet",
+    "callNow": "Sunați acum",
+    "allSpecialists": "Toți specialiștii",
+    "insuranceKasseUndWahl": "Kassenarzt și Wahlarzt",
+    "insuranceKasse": "Kassenarzt",
+    "insuranceWahl": "Wahlarzt",
+    "insurancePrivat": "Medic privat"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Selectați limba",
+    "currentLanguage": "Română",
+    "officialGroup": "Limbă oficială",
+    "minorityGroup": "Limbi minoritare",
+    "migrationGroup": "Limbi de migrație",
+    "internationalGroup": "Internațional"
+  }
+}

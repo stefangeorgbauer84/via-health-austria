@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — Know where to go for health questions.",
+    "description": "WohinMedizin.at helps you understand your symptoms, identify the right medical specialty, and find suitable healthcare providers in Austria."
+  },
+  "nav": {
+    "symptoms": "Symptoms",
+    "diseases": "Conditions",
+    "specialties": "Specialties",
+    "rare": "Rare Diseases",
+    "forDoctors": "For Doctors",
+    "startOrientation": "Find guidance"
+  },
+  "hero": {
+    "badge": "Medical guidance for Austria",
+    "heading": "Know where to go for",
+    "headingAccent": "health questions.",
+    "description": "WohinMedizin.at helps you understand your symptoms, identify the right medical specialty, and find suitable healthcare providers in Austria.",
+    "ctaPrimary": "Find guidance",
+    "ctaSecondary": "Explore health topics",
+    "noDiagnosis": "No diagnosis",
+    "noRegistration": "No registration required",
+    "checkedContent": "Reviewed content",
+    "austrianContext": "Austrian context"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "No diagnosis",
+        "text": "WohinMedizin.at explains and contextualises. Medical diagnosis remains with your doctor."
+      },
+      {
+        "title": "Reviewed content",
+        "text": "Medical content is editorially reviewed, sourced, and regularly updated."
+      },
+      {
+        "title": "Privacy-friendly",
+        "text": "Much content is available without registration. No advertising based on your health inputs."
+      },
+      {
+        "title": "Austrian context",
+        "text": "Kassenarzt, Wahlarzt, referral — all content refers to the Austrian health system."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "Quick lookup",
+    "items": [
+      "Abdominal pain",
+      "Skin rash",
+      "Headache",
+      "Joint pain",
+      "Sick child",
+      "Rare diseases",
+      "Public vs private doctor?",
+      "Mental health"
+    ]
+  },
+  "howItWorks": {
+    "heading": "How WohinMedizin.at works",
+    "subheading": "Three steps from uncertainty to orientation — without diagnostic promises.",
+    "steps": [
+      {
+        "title": "Enter your concern or question",
+        "text": "Briefly describe your concern. The WohinMedizin Navigator helps with categorisation."
+      },
+      {
+        "title": "Receive clear guidance",
+        "text": "You receive possible specialties, relevant content, and questions for your next medical appointment."
+      },
+      {
+        "title": "Find your next step",
+        "text": "Contact points, specialists, and reviewed information — all at a glance."
+      }
+    ],
+    "cta": "Start finding guidance now"
+  },
+  "specialtiesSection": {
+    "heading": "Medical specialties explained simply",
+    "subheading": "When is which specialty relevant? Which contact point fits your concern?",
+    "allLink": "View all specialties",
+    "items": [
+      { "name": "General Practice", "sub": "First point of contact for unclear symptoms", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "Dermatology", "sub": "Skin, hair, nails", "href": "/fachrichtungen/dermatologie" },
+      { "name": "Orthopaedics", "sub": "Bones, joints, muscles", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "Rheumatology", "sub": "Inflammatory conditions", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "Neurology", "sub": "Nervous system and brain", "href": "/fachrichtungen/neurologie" },
+      { "name": "Internal Medicine", "sub": "Internal organs, chronic conditions", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "Psychiatry", "sub": "Mental health", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "Paediatrics", "sub": "Medical care for children", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin Rare",
+    "heading": "When the path is longer, better guidance is needed.",
+    "text": "When symptoms remain unresolved for a long time, WohinMedizin Rare consolidates information, specialised contact points, and questions for your next medical appointment.",
+    "cta": "Go to WohinMedizin Rare"
+  },
+  "faqsSection": {
+    "heading": "Common health questions",
+    "subheading": "Understandable answers to common uncertainties about the Austrian health system.",
+    "items": [
+      { "q": "When to see a dermatologist?", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "When to see a rheumatologist?", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "When is a GP enough?", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "Public vs private doctor — the difference", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "How does a referral work?", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "When to seek urgent medical help?", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "For doctors and healthcare providers",
+    "heading": "Visible where medical guidance is sought.",
+    "description": "WohinMedizin.at connects reviewed health information with specialist profiles. Present your areas of focus, services, and practice details where people actively seek guidance on symptoms and specialties.",
+    "features": [
+      "Verified specialist profile",
+      "Visibility in relevant topic areas",
+      "Presentation of specialist focus areas",
+      "Regional discoverability",
+      "No booking commission"
+    ],
+    "cta": "Create profile",
+    "profiles": [
+      { "label": "Basic profile", "detail": "Free — core data, specialty, contact" },
+      { "label": "Verified profile", "detail": "Reviewed information, focus areas, logo" },
+      { "label": "Specialist profile Plus", "detail": "Visibility in relevant articles and topics" }
+    ]
+  },
+  "partnerNote": "Some topic areas are supported by partners. Editorial responsibility lies with WohinMedizin.at. Partner content is clearly labelled and does not influence guidance results.",
+  "mobileCta": {
+    "startOrientation": "Find guidance",
+    "callLabel": "Call"
+  },
+  "footer": {
+    "tagline": "Know where to go\nfor health questions.",
+    "themesHeading": "Topics",
+    "platformHeading": "Platform",
+    "legalHeading": "Legal",
+    "symptoms": "Symptoms",
+    "diseases": "Conditions",
+    "specialties": "Specialties",
+    "rare": "Rare Diseases",
+    "healthSystem": "Austrian Health System",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "For Doctors",
+    "forPartners": "For Partners",
+    "about": "About WohinMedizin.at",
+    "privacy": "Privacy Policy",
+    "imprint": "Imprint",
+    "terms": "Terms of Use",
+    "copyright": "© 2026 WohinMedizin.at. No diagnosis. No medical advice.",
+    "checkedContent": "Reviewed content. Austrian health context."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "Where should I turn?",
+    "description": "Describe your concern — we'll show you possible first points of contact. No diagnosis, no judgement. Initial orientation.",
+    "placeholder": "e.g. I've had headaches for two weeks, especially in the mornings. Sometimes dizziness too.",
+    "charCount": "{count} characters",
+    "inputHint": "Please describe in German or English",
+    "analyzing": "Analysing…",
+    "submit": "Get guidance",
+    "loadingText": "Preparing orientation…",
+    "firstContactLabel": "First point of contact",
+    "specialtiesLabel": "Possible specialties",
+    "redFlagsLabel": "See a doctor immediately if…",
+    "nextStepsLabel": "Next steps",
+    "newQuery": "Enter a new concern",
+    "noStorage": "Your input is not stored. No diagnosis, no automated medical decision. Sponsorship does not influence results.",
+    "errorFallback": "An error occurred.",
+    "noResponse": "No response received."
+  },
+  "specialist": {
+    "verifiedProfile": "Verified Profile",
+    "callPractice": "Call Practice",
+    "visitWebsite": "Visit Website",
+    "focusAreasHeading": "Treatment Focus Areas",
+    "appointmentHeading": "What to Expect at Your Appointment",
+    "insuranceHeading": "Costs and Insurance Status",
+    "insuranceNote": "Please bring any existing medical reports, a current medication list, and your e-card to your first appointment. For questions about costs and reimbursement, please contact the practice directly.",
+    "profileDisclaimer": "This profile is provided by WohinMedizin.at. The information is based on details provided by the provider. WohinMedizin.at accepts no liability for accuracy or completeness. This profile does not replace medical consultation.",
+    "contactHeading": "Contact & Practice",
+    "callNow": "Call Now",
+    "allSpecialists": "All Specialists",
+    "insuranceKasseUndWahl": "Health insurance and private",
+    "insuranceKasse": "Health insurance doctor",
+    "insuranceWahl": "Private doctor",
+    "insurancePrivat": "Private practice"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Select language",
+    "currentLanguage": "English",
+    "officialGroup": "Official language",
+    "minorityGroup": "Minority languages",
+    "migrationGroup": "Migration languages",
+    "internationalGroup": "International"
+  }
+}

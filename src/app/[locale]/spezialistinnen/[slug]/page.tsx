@@ -1,45 +1,47 @@
-import Link from "next/link";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
+import { getTranslations } from 'next-intl/server'
+import { Link } from '@/i18n/navigation'
+import { Header } from '@/components/Header'
+import { Footer } from '@/components/Footer'
 
 // Placeholder until Payload CMS data is connected
 const mockDoctor = {
-  name: "Dr. Maria Mustermann",
-  title: "Dr.",
-  specialty: "Dermatologie",
-  insuranceType: "Kassenarzt und Wahlarzt",
-  region: "Wien",
-  address: "Musterstraße 12, 1010 Wien",
-  phone: "+43 1 234 5678",
-  website: "https://example.at",
-  languages: ["Deutsch", "Englisch"],
+  name: 'Dr. Maria Mustermann',
+  title: 'Dr.',
+  specialty: 'Dermatologie',
+  insuranceType: 'insuranceKasseUndWahl',
+  region: 'Wien',
+  address: 'Musterstraße 12, 1010 Wien',
+  phone: '+43 1 234 5678',
+  website: 'https://example.at',
+  languages: ['Deutsch', 'Englisch'],
   verified: true,
-  tier: "plus",
-  bio: "Mein Ziel ist es, Patient:innen medizinisch sorgfältig zu behandeln und ihnen die Hintergründe ihrer Beschwerden verständlich zu erklären. Eine gute Diagnose beginnt für mich mit genauem Zuhören, klarer Untersuchung und einer Therapieempfehlung, die zur individuellen Situation passt.",
+  tier: 'plus',
+  bio: 'Mein Ziel ist es, Patient:innen medizinisch sorgfältig zu behandeln und ihnen die Hintergründe ihrer Beschwerden verständlich zu erklären. Eine gute Diagnose beginnt für mich mit genauem Zuhören, klarer Untersuchung und einer Therapieempfehlung, die zur individuellen Situation passt.',
   focusAreas: [
-    "Hautkrebsvorsorge und Dermatoskopie",
-    "Chronische Hauterkrankungen (Psoriasis, Ekzem, Akne)",
-    "Allergologische Diagnostik",
-    "Ästhetische Dermatologie",
+    'Hautkrebsvorsorge und Dermatoskopie',
+    'Chronische Hauterkrankungen (Psoriasis, Ekzem, Akne)',
+    'Allergologische Diagnostik',
+    'Ästhetische Dermatologie',
   ],
   appointmentProcess: [
-    "Termin online oder telefonisch vereinbaren",
-    "Vorhandene Befunde und e-card mitbringen",
-    "Sorgfältige Untersuchung und verständliche Beratung",
-    "Gemeinsame Besprechung der nächsten Schritte",
+    'Termin online oder telefonisch vereinbaren',
+    'Vorhandene Befunde und e-card mitbringen',
+    'Sorgfältige Untersuchung und verständliche Beratung',
+    'Gemeinsame Besprechung der nächsten Schritte',
   ],
-};
+}
 
 const insuranceBadgeColor: Record<string, string> = {
-  "Kassenarzt und Wahlarzt": "bg-green-50 text-green-700 border-green-200",
-  "Kassenarzt": "bg-green-50 text-green-700 border-green-200",
-  "Wahlarzt": "bg-blue-50 text-blue-700 border-blue-200",
-  "Privatarzt": "bg-purple-50 text-purple-700 border-purple-200",
-};
+  insuranceKasseUndWahl: 'bg-green-50 text-green-700 border-green-200',
+  insuranceKasse: 'bg-green-50 text-green-700 border-green-200',
+  insuranceWahl: 'bg-blue-50 text-blue-700 border-blue-200',
+  insurancePrivat: 'bg-purple-50 text-purple-700 border-purple-200',
+}
 
-export default function DoctorProfilePage() {
-  const doc = mockDoctor;
-  const badgeClass = insuranceBadgeColor[doc.insuranceType] ?? "bg-gray-50 text-gray-700 border-gray-200";
+export default async function DoctorProfilePage() {
+  const t = await getTranslations('specialist')
+  const doc = mockDoctor
+  const badgeClass = insuranceBadgeColor[doc.insuranceType] ?? 'bg-gray-50 text-gray-700 border-gray-200'
 
   return (
     <>
@@ -66,11 +68,11 @@ export default function DoctorProfilePage() {
                       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
                         <path d="M20 6L9 17l-5-5" />
                       </svg>
-                      Verifiziertes Profil
+                      {t('verifiedProfile')}
                     </span>
                   )}
                   <span className={`inline-flex items-center text-xs font-medium px-2.5 py-1 rounded-full border ${badgeClass}`}>
-                    {doc.insuranceType}
+                    {t(doc.insuranceType as Parameters<typeof t>[0])}
                   </span>
                 </div>
 
@@ -91,7 +93,7 @@ export default function DoctorProfilePage() {
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
                       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 13a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.6 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" />
                     </svg>
-                    Ordination anrufen
+                    {t('callPractice')}
                   </a>
                   {doc.website && (
                     <a
@@ -104,7 +106,7 @@ export default function DoctorProfilePage() {
                         <circle cx="12" cy="12" r="10" />
                         <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
                       </svg>
-                      Website besuchen
+                      {t('visitWebsite')}
                     </a>
                   )}
                 </div>
@@ -122,7 +124,7 @@ export default function DoctorProfilePage() {
 
               {/* Focus areas */}
               <div>
-                <h2 className="text-lg font-bold text-[var(--color-medizin-navy)] mb-4">Behandlungsschwerpunkte</h2>
+                <h2 className="text-lg font-bold text-[var(--color-medizin-navy)] mb-4">{t('focusAreasHeading')}</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                   {doc.focusAreas.map((area) => (
                     <div key={area} className="flex items-start gap-3 p-4 bg-[var(--color-morgen-hellblau)] rounded-xl border border-[var(--color-border)]">
@@ -139,7 +141,7 @@ export default function DoctorProfilePage() {
 
               {/* Appointment process */}
               <div>
-                <h2 className="text-lg font-bold text-[var(--color-medizin-navy)] mb-4">So läuft Ihr Termin ab</h2>
+                <h2 className="text-lg font-bold text-[var(--color-medizin-navy)] mb-4">{t('appointmentHeading')}</h2>
                 <div className="space-y-3">
                   {doc.appointmentProcess.map((step, i) => (
                     <div key={i} className="flex items-start gap-4 p-4 bg-white border border-[var(--color-border)] rounded-xl">
@@ -154,11 +156,11 @@ export default function DoctorProfilePage() {
 
               {/* Insurance info */}
               <div>
-                <h2 className="text-lg font-bold text-[var(--color-medizin-navy)] mb-4">Kosten und Kassenstatus</h2>
+                <h2 className="text-lg font-bold text-[var(--color-medizin-navy)] mb-4">{t('insuranceHeading')}</h2>
                 <div className={`p-5 rounded-xl border ${badgeClass}`}>
-                  <p className="font-semibold text-sm mb-1">{doc.insuranceType}</p>
+                  <p className="font-semibold text-sm mb-1">{t(doc.insuranceType as Parameters<typeof t>[0])}</p>
                   <p className="text-xs leading-relaxed opacity-80">
-                    Bitte bringen Sie zum Ersttermin vorhandene Befunde, eine aktuelle Medikamentenliste und Ihre e-card mit. Bei Fragen zu Kosten und Rückerstattung wenden Sie sich bitte direkt an die Ordination.
+                    {t('insuranceNote')}
                   </p>
                 </div>
               </div>
@@ -166,7 +168,7 @@ export default function DoctorProfilePage() {
               {/* Disclaimer */}
               <div className="p-4 bg-[var(--color-warmweiss)] border border-[var(--color-border)] rounded-xl">
                 <p className="text-xs text-[var(--color-muted)] leading-relaxed">
-                  Dieses Profil wird von WohinMedizin.at bereitgestellt. Die Angaben basieren auf den vom Anbieter zur Verfügung gestellten Informationen. WohinMedizin.at übernimmt keine Haftung für die Richtigkeit und Vollständigkeit. Dieses Profil ersetzt keine ärztliche Beratung.
+                  {t('profileDisclaimer')}
                 </p>
               </div>
             </div>
@@ -175,7 +177,7 @@ export default function DoctorProfilePage() {
             <div className="space-y-4">
 
               <div className="bg-white border border-[var(--color-border)] rounded-2xl p-6 space-y-4 sticky top-20">
-                <h3 className="font-bold text-[var(--color-medizin-navy)] text-sm">Kontakt & Ordination</h3>
+                <h3 className="font-bold text-[var(--color-medizin-navy)] text-sm">{t('contactHeading')}</h3>
 
                 <div className="space-y-3 text-sm">
                   <div className="flex items-start gap-3">
@@ -198,7 +200,7 @@ export default function DoctorProfilePage() {
                         <circle cx="12" cy="12" r="10" />
                         <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
                       </svg>
-                      <span className="text-[var(--color-muted)]">{doc.languages.join(", ")}</span>
+                      <span className="text-[var(--color-muted)]">{doc.languages.join(', ')}</span>
                     </div>
                   )}
                 </div>
@@ -208,7 +210,7 @@ export default function DoctorProfilePage() {
                     href={`tel:${doc.phone}`}
                     className="w-full inline-flex items-center justify-center gap-2 py-3 rounded-xl wohin-gradient text-white font-semibold text-sm hover:opacity-90 transition-opacity"
                   >
-                    Jetzt anrufen
+                    {t('callNow')}
                   </a>
                   {doc.website && (
                     <a
@@ -217,7 +219,7 @@ export default function DoctorProfilePage() {
                       rel="noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 py-3 rounded-xl bg-[var(--color-morgen-hellblau)] border border-[var(--color-border)] text-[var(--color-medizin-navy)] font-semibold text-sm hover:bg-[var(--color-border)] transition-colors"
                     >
-                      Website besuchen
+                      {t('visitWebsite')}
                     </a>
                   )}
                 </div>
@@ -231,7 +233,7 @@ export default function DoctorProfilePage() {
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M19 12H5M12 19l-7-7 7-7" />
                 </svg>
-                Alle Spezialist:innen
+                {t('allSpecialists')}
               </Link>
             </div>
           </div>
@@ -245,7 +247,7 @@ export default function DoctorProfilePage() {
           href={`tel:${doc.phone}`}
           className="flex-1 inline-flex items-center justify-center gap-2 py-3 rounded-xl wohin-gradient text-white font-semibold text-sm"
         >
-          Jetzt anrufen
+          {t('callNow')}
         </a>
         {doc.website && (
           <a
@@ -264,5 +266,5 @@ export default function DoctorProfilePage() {
 
       <Footer />
     </>
-  );
+  )
 }

@@ -6,14 +6,25 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "hc:migrate": "tsx scripts/healthcare/migrate.ts",
+    "hc:extract:pilot": "tsx scripts/healthcare/extract.ts --pilot",
+    "hc:extract": "tsx scripts/healthcare/extract.ts",
+    "hc:check": "tsx scripts/healthcare/check.ts",
+    "orpha:dry-run": "tsx scripts/orphadata/import.ts --dry-run --limit 10",
+    "orpha:import:pilot": "tsx scripts/orphadata/import.ts --limit 50",
+    "orpha:import:neuro": "tsx scripts/orphadata/import.ts --cluster neuro --limit 100",
+    "orpha:import": "tsx scripts/orphadata/import.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.104.1",
+    "pg": "^8.13.3",
     "@payloadcms/db-postgres": "^3.85.1",
     "@payloadcms/next": "^3.85.1",
     "@payloadcms/richtext-lexical": "^3.85.1",
     "graphql": "^16.14.2",
     "next": "16.2.9",
+    "next-intl": "^4.13.0",
     "payload": "^3.85.1",
     "react": "19.2.4",
     "react-dom": "19.2.4",
@@ -24,9 +35,13 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/pg": "^8.11.10",
+    "apify-client": "^2.23.4",
+    "dotenv": "^17.4.2",
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
     "tailwindcss": "^4",
+    "tsx": "^4.22.4",
     "typescript": "^5"
   }
 }

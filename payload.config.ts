@@ -11,6 +11,14 @@ import { Articles } from './src/collections/Articles'
 import { Specialties } from './src/collections/Specialties'
 import { DoctorProfiles } from './src/collections/DoctorProfiles'
 import { Media } from './src/collections/Media'
+import { Diseases } from './src/collections/Diseases'
+import { Symptoms } from './src/collections/Symptoms'
+import { Genes } from './src/collections/Genes'
+import { Sources } from './src/collections/Sources'
+import { ExpertReviews } from './src/collections/ExpertReviews'
+import { PatientOrganizations } from './src/collections/PatientOrganizations'
+import { ExpertCenters } from './src/collections/ExpertCenters'
+import { PatientStories } from './src/collections/PatientStories'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
@@ -32,6 +40,15 @@ export default buildConfig({
     Specialties,
     DoctorProfiles,
     Media,
+    // Seltene Erkrankungen
+    Diseases,
+    Symptoms,
+    Genes,
+    Sources,
+    ExpertReviews,
+    PatientOrganizations,
+    ExpertCenters,
+    PatientStories,
   ],
 
   editor: lexicalEditor(),
@@ -40,6 +57,8 @@ export default buildConfig({
     pool: {
       connectionString: process.env.DATABASE_URI,
     },
+    // Verhindert dass Drizzle hc_* Tabellen (alter Scraper) mit Payload-Tabellen verwechselt
+    tablesFilter: ['!hc_entities', '!hc_compliance_flags', '!hc_entity_sources', '!hc_scraping_runs'],
   }),
 
   secret: process.env.PAYLOAD_SECRET || '',

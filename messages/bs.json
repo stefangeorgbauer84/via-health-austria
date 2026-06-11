@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — Znajte kamo ići s zdravstvenim pitanjima.",
+    "description": "WohinMedizin.at vam pomaže da bolje razumijete simptome, prepoznate odgovarajuću medicinsku specijalnost i pronađete odgovarajuće zdravstvene ustanove u Austriji."
+  },
+  "nav": {
+    "symptoms": "Simptomi",
+    "diseases": "Bolesti",
+    "specialties": "Specijalnosti",
+    "rare": "Rijetke bolesti",
+    "forDoctors": "Za ljekare",
+    "startOrientation": "Pronađi smjer"
+  },
+  "hero": {
+    "badge": "Medicinska orijentacija za Austriju",
+    "heading": "Znajte kamo ići s",
+    "headingAccent": "zdravstvenim pitanjima.",
+    "description": "WohinMedizin.at vam pomaže da bolje razumijete simptome, prepoznate odgovarajuću medicinsku specijalnost i pronađete odgovarajuće zdravstvene ustanove u Austriji.",
+    "ctaPrimary": "Pronađi smjer",
+    "ctaSecondary": "Istraži zdravstvene teme",
+    "noDiagnosis": "Bez dijagnoze",
+    "noRegistration": "Registracija nije obavezna",
+    "checkedContent": "Provjereni sadržaji",
+    "austrianContext": "Austrijski kontekst"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Bez dijagnoze",
+        "text": "WohinMedizin.at objašnjava i usmjerava. Medicinsku dijagnozu daje vaš ljekar."
+      },
+      {
+        "title": "Provjereni sadržaji",
+        "text": "Medicinski sadržaji se uredivački provjeravaju, navode se izvori i redovito se ažuriraju."
+      },
+      {
+        "title": "Zaštita privatnosti",
+        "text": "Mnogi sadržaji dostupni su bez registracije. Nema oglašavanja na temelju vaših zdravstvenih podataka."
+      },
+      {
+        "title": "Austrijski kontekst",
+        "text": "Kassenarzt, Wahlarzt, uputnica — svi sadržaji odnose se na austrijsko zdravstveno sistema."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "Brzo pretraži",
+    "items": [
+      "Bol u trbuhu",
+      "Osip na koži",
+      "Glavobolja",
+      "Bol u zglobovima",
+      "Bolesno dijete",
+      "Rijetke bolesti",
+      "Ljekar na blagajni ili privatni?",
+      "Mentalno zdravlje"
+    ]
+  },
+  "howItWorks": {
+    "heading": "Kako funkcionira WohinMedizin.at",
+    "subheading": "Tri koraka od nesigurnosti do orijentacije — bez dijagnostičkih obećanja.",
+    "steps": [
+      {
+        "title": "Unesite svoju teškoću ili pitanje",
+        "text": "Ukratko opišite svoju teškoću. WohinMedizin Navigator pomaže pri kategorizaciji."
+      },
+      {
+        "title": "Dobijte jasnu orijentaciju",
+        "text": "Dobit ćete moguće specijalnosti, relevantne sadržaje i pitanja za sljedeći ljekarski pregled."
+      },
+      {
+        "title": "Pronađite sljedeći korak",
+        "text": "Kontaktne tačke, specijalisti i provjerene informacije — sve na jednom mjestu."
+      }
+    ],
+    "cta": "Počnite tražiti smjer sada"
+  },
+  "specialtiesSection": {
+    "heading": "Medicinske specijalnosti jednostavno objašnjene",
+    "subheading": "Kada je koja specijalnost relevantna? Koja kontaktna tačka odgovara vašem pitanju?",
+    "allLink": "Pogledajte sve specijalnosti",
+    "items": [
+      { "name": "Opća medicina", "sub": "Prva kontaktna tačka za nejasne simptome", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "Dermatologija", "sub": "Koža, kosa, nokti", "href": "/fachrichtungen/dermatologie" },
+      { "name": "Ortopedija", "sub": "Kosti, zglobovi, mišići", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "Reumatologija", "sub": "Upalne bolesti", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "Neurologija", "sub": "Nervni sistem i mozak", "href": "/fachrichtungen/neurologie" },
+      { "name": "Interna medicina", "sub": "Unutrašnji organi, hronične bolesti", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "Psihijatrija", "sub": "Mentalno zdravlje", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "Pedijatrija", "sub": "Medicinska njega za djecu", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin Rijetke bolesti",
+    "heading": "Kad je put duži, potrebna je bolja orijentacija.",
+    "text": "Kad simptomi dugo ostaju neobjašnjeni, WohinMedizin Rijetke bolesti skuplja informacije, specijalizirane kontaktne tačke i pitanja za sljedeći ljekarski pregled.",
+    "cta": "Idi na WohinMedizin Rijetke bolesti"
+  },
+  "faqsSection": {
+    "heading": "Česta zdravstvena pitanja",
+    "subheading": "Razumljivi odgovori na česte nejasnoće o austrijskom zdravstvenom sistemu.",
+    "items": [
+      { "q": "Kada k dermatologu?", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "Kada k reumatologu?", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "Kada je dovoljan opći ljekar?", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "Ljekar na blagajni vs. privatni — razlika", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "Kako funkcionira uputnica?", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "Kada hitno potražiti medicinsku pomoć?", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "Za ljekare i zdravstvene ustanove",
+    "heading": "Vidljivi tamo gdje se traži medicinska orijentacija.",
+    "description": "WohinMedizin.at povezuje provjerene zdravstvene informacije s profilima specijalista. Predstavite svoja stručna područja, usluge i podatke ordinacije tamo gdje ljudi aktivno traže orijentaciju o simptomima i specijalnostima.",
+    "features": [
+      "Verificirani profil specijalista",
+      "Vidljivost u relevantnim tematskim područjima",
+      "Prikaz specijalnih područja rada",
+      "Regionalna pronalazivost",
+      "Bez provizije za rezervacije"
+    ],
+    "cta": "Kreirati profil",
+    "profiles": [
+      { "label": "Osnovni profil", "detail": "Besplatno — osnovni podaci, specijalnost, kontakt" },
+      { "label": "Verificirani profil", "detail": "Provjerene informacije, područja rada, logo" },
+      { "label": "Profil specijalista Plus", "detail": "Vidljivost u relevantnim člancima i temama" }
+    ]
+  },
+  "partnerNote": "Neka tematska područja podržavaju partneri. Uredivačka odgovornost leži na WohinMedizin.at. Partnerski sadržaji su jasno označeni i ne utječu na rezultate orijentacije.",
+  "mobileCta": {
+    "startOrientation": "Pronađi smjer",
+    "callLabel": "Poziv"
+  },
+  "footer": {
+    "tagline": "Znajte kamo ići\ns zdravstvenim pitanjima.",
+    "themesHeading": "Teme",
+    "platformHeading": "Platforma",
+    "legalHeading": "Pravno",
+    "symptoms": "Simptomi",
+    "diseases": "Bolesti",
+    "specialties": "Specijalnosti",
+    "rare": "Rijetke bolesti",
+    "healthSystem": "Austrijsko zdravstvo",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "Za ljekare",
+    "forPartners": "Za partnere",
+    "about": "O WohinMedizin.at",
+    "privacy": "Zaštita podataka",
+    "imprint": "Impressum",
+    "terms": "Uvjeti korištenja",
+    "copyright": "© 2026 WohinMedizin.at. Bez dijagnoze. Bez medicinskog savjeta.",
+    "checkedContent": "Provjereni sadržaji. Austrijski zdravstveni kontekst."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "Kome da se obratim?",
+    "description": "Opišite svoju teškoću — pokazat ćemo vam moguće prve kontaktne tačke. Bez dijagnoze, bez prosudbe. Početna orijentacija.",
+    "placeholder": "npr. Imam glavobolju već dvije sedmice, posebno ujutro. Ponekad i vrtoglavicu.",
+    "charCount": "{count} znakova",
+    "inputHint": "Molimo opišite na njemačkom ili engleskom",
+    "analyzing": "Analiziranje…",
+    "submit": "Dobijte orijentaciju",
+    "loadingText": "Pripremanje orijentacije…",
+    "firstContactLabel": "Prva kontaktna tačka",
+    "specialtiesLabel": "Moguće specijalnosti",
+    "redFlagsLabel": "Odmah k ljekaru ako…",
+    "nextStepsLabel": "Sljedeći koraci",
+    "newQuery": "Unesite novu teškoću",
+    "noStorage": "Vaš unos se ne čuva. Bez dijagnoze, bez automatiziranih medicinskih odluka. Sponzorstvo ne utječe na rezultate.",
+    "errorFallback": "Došlo je do greške.",
+    "noResponse": "Odgovor nije primljen."
+  },
+  "specialist": {
+    "verifiedProfile": "Verificirani profil",
+    "callPractice": "Pozovite ordinaciju",
+    "visitWebsite": "Posjetite web stranicu",
+    "focusAreasHeading": "Područja liječenja",
+    "appointmentHeading": "Kako izgleda vaš pregled",
+    "insuranceHeading": "Troškovi i status osiguranja",
+    "insuranceNote": "Na prvi pregled donesite postojeće nalaze, aktualnu listu lijekova i svoju e-card. Za pitanja o troškovima i povratima obratite se direktno ordinaciji.",
+    "profileDisclaimer": "Ovaj profil pruža WohinMedizin.at. Podaci se temelje na informacijama koje je dostavio pružatelj usluge. WohinMedizin.at ne preuzima odgovornost za tačnost i potpunost. Ovaj profil ne zamjenjuje ljekarski savjet.",
+    "contactHeading": "Kontakt i ordinacija",
+    "callNow": "Pozovite sada",
+    "allSpecialists": "Svi specijalisti",
+    "insuranceKasseUndWahl": "Ljekar na blagajni i privatni ljekar",
+    "insuranceKasse": "Ljekar na blagajni",
+    "insuranceWahl": "Privatni ljekar",
+    "insurancePrivat": "Privatni ljekar"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Odaberi jezik",
+    "currentLanguage": "Bosanski",
+    "officialGroup": "Službeni jezik",
+    "minorityGroup": "Manjinski jezici",
+    "migrationGroup": "Jezici migracije",
+    "internationalGroup": "Međunarodni"
+  }
+}

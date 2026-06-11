@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — Tudja, hova forduljon egészségügyi kérdéseivel.",
+    "description": "A WohinMedizin.at segít megérteni tüneteit, azonosítani a megfelelő orvosi szakterületet, és megtalálni a megfelelő egészségügyi szolgáltatókat Ausztriában."
+  },
+  "nav": {
+    "symptoms": "Tünetek",
+    "diseases": "Betegségek",
+    "specialties": "Szakrendelők",
+    "rare": "Ritka betegségek",
+    "forDoctors": "Orvosoknak",
+    "startOrientation": "Útmutatás keresése"
+  },
+  "hero": {
+    "badge": "Orvosi útmutatás Ausztria számára",
+    "heading": "Tudja, hova forduljon",
+    "headingAccent": "egészségügyi kérdéseivel.",
+    "description": "A WohinMedizin.at segít megérteni tüneteit, azonosítani a megfelelő orvosi szakterületet, és megtalálni a megfelelő egészségügyi szolgáltatókat Ausztriában.",
+    "ctaPrimary": "Útmutatás keresése",
+    "ctaSecondary": "Egészségügyi témák felfedezése",
+    "noDiagnosis": "Nincs diagnózis",
+    "noRegistration": "Nem kötelező regisztráció",
+    "checkedContent": "Ellenőrzött tartalmak",
+    "austrianContext": "Ausztriai kontextus"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Nincs diagnózis",
+        "text": "A WohinMedizin.at magyaráz és irányít. Az orvosi diagnózist az orvosa állítja fel."
+      },
+      {
+        "title": "Ellenőrzött tartalmak",
+        "text": "Az orvosi tartalmakat szerkesztőileg ellenőrzik, forrásokkal látják el és rendszeresen frissítik."
+      },
+      {
+        "title": "Adatvédelem",
+        "text": "Sok tartalom regisztráció nélkül elérhető. Nincs egészségügyi adatain alapuló reklám."
+      },
+      {
+        "title": "Ausztriai kontextus",
+        "text": "Kassenarzt, Wahlarzt, beutaló — minden tartalom az osztrák egészségügyi rendszerre vonatkozik."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "Gyors keresés",
+    "items": [
+      "Hasi fájdalom",
+      "Bőrkiütés",
+      "Fejfájás",
+      "Ízületi fájdalom",
+      "Beteg gyermek",
+      "Ritka betegségek",
+      "Társadalombiztosítási vagy magánorvos?",
+      "Mentális egészség"
+    ]
+  },
+  "howItWorks": {
+    "heading": "Hogyan működik a WohinMedizin.at",
+    "subheading": "Három lépés a bizonytalanságtól az eligazodásig — diagnosztikai ígéretek nélkül.",
+    "steps": [
+      {
+        "title": "Írja le panaszát vagy kérdését",
+        "text": "Röviden írja le panaszát. A WohinMedizin Navigator segít a kategorizálásban."
+      },
+      {
+        "title": "Kapjon egyértelmű útmutatást",
+        "text": "Lehetséges szakrendelőket, releváns tartalmakat és kérdéseket kap a következő orvosi látogatáshoz."
+      },
+      {
+        "title": "Találja meg a következő lépést",
+        "text": "Kapcsolatfelvételi pontok, szakemberek és ellenőrzött információk — egy helyen."
+      }
+    ],
+    "cta": "Kezdjen el útmutatást keresni most"
+  },
+  "specialtiesSection": {
+    "heading": "Orvosi szakterületek egyszerűen elmagyarázva",
+    "subheading": "Mikor melyik szakterület releváns? Melyik kapcsolatfelvételi pont illik az Ön panaszához?",
+    "allLink": "Az összes szakterület megtekintése",
+    "items": [
+      { "name": "Általános orvoslás", "sub": "Első kapcsolatfelvételi pont tisztázatlan tüneteknél", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "Bőrgyógyászat", "sub": "Bőr, haj, körmök", "href": "/fachrichtungen/dermatologie" },
+      { "name": "Ortopédia", "sub": "Csontok, ízületek, izmok", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "Reumatológia", "sub": "Gyulladásos betegségek", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "Neurológia", "sub": "Idegrendszer és agy", "href": "/fachrichtungen/neurologie" },
+      { "name": "Belgyógyászat", "sub": "Belső szervek, krónikus betegségek", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "Pszichiátria", "sub": "Mentális egészség", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "Gyermekgyógyászat", "sub": "Gyermekek orvosi ellátása", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin Ritka betegségek",
+    "heading": "Ha az út hosszabb, jobb iránymutatásra van szükség.",
+    "text": "Ha a tünetek sokáig megmagyarázatlanok maradnak, a WohinMedizin Ritka betegségek összegyűjti az információkat, a szakosodott kapcsolatfelvételi pontokat és a következő orvosi látogatáshoz szükséges kérdéseket.",
+    "cta": "Ugrás a WohinMedizin Ritka betegségekhez"
+  },
+  "faqsSection": {
+    "heading": "Gyakori egészségügyi kérdések",
+    "subheading": "Érthető válaszok az osztrák egészségügyi rendszerrel kapcsolatos gyakori kérdésekre.",
+    "items": [
+      { "q": "Mikor menjen bőrgyógyászhoz?", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "Mikor menjen reumatológushoz?", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "Mikor elég a háziorvos?", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "Társadalombiztosítási vs. magánorvos — a különbség", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "Hogyan működik a beutaló?", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "Mikor kell sürgősen orvoshoz menni?", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "Orvosoknak és egészségügyi intézményeknek",
+    "heading": "Látható ott, ahol orvosi útmutatást keresnek.",
+    "description": "A WohinMedizin.at összeköti az ellenőrzött egészségügyi információkat a szakorvosi profilokkal. Mutassa be szakterületeit, szolgáltatásait és rendelési adatait ott, ahol az emberek aktívan keresnek tájékoztatást tünetekről és szakterületekről.",
+    "features": [
+      "Hitelesített szakorvosi profil",
+      "Láthatóság releváns tématerületeken",
+      "Szakmai szakterületek bemutatása",
+      "Regionális megtalálhatóság",
+      "Nincs foglalási jutalék"
+    ],
+    "cta": "Profil létrehozása",
+    "profiles": [
+      { "label": "Alapszintű profil", "detail": "Ingyenes — alapadatok, szakterület, kapcsolat" },
+      { "label": "Hitelesített profil", "detail": "Ellenőrzött információk, szakterületek, logó" },
+      { "label": "Szakorvosi profil Plus", "detail": "Láthatóság releváns cikkekben és témákban" }
+    ]
+  },
+  "partnerNote": "Egyes tématerületeket partnerek támogatnak. A szerkesztői felelősség a WohinMedizin.at-nél van. A partnertartalmak egyértelműen jelölve vannak, és nem befolyásolják az útmutatási eredményeket.",
+  "mobileCta": {
+    "startOrientation": "Útmutatás keresése",
+    "callLabel": "Hívás"
+  },
+  "footer": {
+    "tagline": "Tudja, hova forduljon\negészségügyi kérdéseivel.",
+    "themesHeading": "Témák",
+    "platformHeading": "Platform",
+    "legalHeading": "Jogi",
+    "symptoms": "Tünetek",
+    "diseases": "Betegségek",
+    "specialties": "Szakrendelők",
+    "rare": "Ritka betegségek",
+    "healthSystem": "Osztrák egészségügyi rendszer",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "Orvosoknak",
+    "forPartners": "Partnereknek",
+    "about": "A WohinMedizin.at-ről",
+    "privacy": "Adatvédelem",
+    "imprint": "Impressum",
+    "terms": "Felhasználási feltételek",
+    "copyright": "© 2026 WohinMedizin.at. Nincs diagnózis. Nincs orvosi tanács.",
+    "checkedContent": "Ellenőrzött tartalmak. Osztrák egészségügyi kontextus."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "Hova forduljak?",
+    "description": "Írja le panaszát — megmutatjuk az első lehetséges kapcsolatfelvételi pontokat. Nincs diagnózis, nincs ítélet. Kezdeti útmutatás.",
+    "placeholder": "pl. Két hete fejfájásom van, különösen reggel. Néha szédülés is.",
+    "charCount": "{count} karakter",
+    "inputHint": "Kérjük, írjon németül vagy angolul",
+    "analyzing": "Elemzés…",
+    "submit": "Útmutatás kérése",
+    "loadingText": "Útmutatás előkészítése…",
+    "firstContactLabel": "Első kapcsolatfelvételi pont",
+    "specialtiesLabel": "Lehetséges szakterületek",
+    "redFlagsLabel": "Azonnal orvoshoz ha…",
+    "nextStepsLabel": "Következő lépések",
+    "newQuery": "Új panasz megadása",
+    "noStorage": "Az Ön bevitele nem kerül tárolásra. Nincs diagnózis, nincs automatizált orvosi döntés. A szponzorálás nem befolyásolja az eredményeket.",
+    "errorFallback": "Hiba történt.",
+    "noResponse": "Nem érkezett válasz."
+  },
+  "specialist": {
+    "verifiedProfile": "Hitelesített profil",
+    "callPractice": "Rendelő hívása",
+    "visitWebsite": "Weboldal megtekintése",
+    "focusAreasHeading": "Kezelési szakterületek",
+    "appointmentHeading": "Hogyan zajlik a vizit",
+    "insuranceHeading": "Költségek és biztosítási státusz",
+    "insuranceNote": "Az első vizithez hozza magával a meglévő leleteket, az aktuális gyógyszerlistát és az e-card kártyáját. A költségekkel és visszatérítéssel kapcsolatos kérdéseket közvetlenül a rendelőnek tegye fel.",
+    "profileDisclaimer": "Ezt a profilt a WohinMedizin.at biztosítja. Az adatok a szolgáltató által megadott információkon alapulnak. A WohinMedizin.at nem vállal felelősséget a pontosságért és teljességért. Ez a profil nem helyettesíti az orvosi konzultációt.",
+    "contactHeading": "Kapcsolat és rendelő",
+    "callNow": "Hívjon most",
+    "allSpecialists": "Összes szakorvos",
+    "insuranceKasseUndWahl": "Társadalombiztosítási és magánorvos",
+    "insuranceKasse": "Társadalombiztosítási orvos",
+    "insuranceWahl": "Magánorvos",
+    "insurancePrivat": "Magánorvos"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Válasszon nyelvet",
+    "currentLanguage": "Magyar",
+    "officialGroup": "Hivatalos nyelv",
+    "minorityGroup": "Kisebbségi nyelvek",
+    "migrationGroup": "Migrációs nyelvek",
+    "internationalGroup": "Nemzetközi"
+  }
+}

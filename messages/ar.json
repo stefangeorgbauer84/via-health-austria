@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — اعرف أين تتوجه لأسئلتك الصحية.",
+    "description": "يساعدك WohinMedizin.at على فهم أعراضك، وتحديد التخصص الطبي المناسب، وإيجاد مزودي الرعاية الصحية المناسبين في النمسا."
+  },
+  "nav": {
+    "symptoms": "الأعراض",
+    "diseases": "الأمراض",
+    "specialties": "التخصصات",
+    "rare": "الأمراض النادرة",
+    "forDoctors": "للأطباء",
+    "startOrientation": "ابحث عن إرشاد"
+  },
+  "hero": {
+    "badge": "إرشاد طبي للنمسا",
+    "heading": "اعرف أين تتوجه",
+    "headingAccent": "لأسئلتك الصحية.",
+    "description": "يساعدك WohinMedizin.at على فهم أعراضك، وتحديد التخصص الطبي المناسب، وإيجاد مزودي الرعاية الصحية المناسبين في النمسا.",
+    "ctaPrimary": "ابحث عن إرشاد",
+    "ctaSecondary": "استكشف الموضوعات الصحية",
+    "noDiagnosis": "لا تشخيص",
+    "noRegistration": "لا يلزم تسجيل",
+    "checkedContent": "محتوى مراجَع",
+    "austrianContext": "السياق النمساوي"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "لا تشخيص",
+        "text": "يشرح WohinMedizin.at ويوجِّه. التشخيص الطبي يقدمه طبيبك."
+      },
+      {
+        "title": "محتوى مراجَع",
+        "text": "تتم مراجعة المحتوى الطبي تحريرياً مع توثيق المصادر وتحديث منتظم."
+      },
+      {
+        "title": "صديق للخصوصية",
+        "text": "كثير من المحتوى متاح دون تسجيل. لا إعلانات بناءً على بياناتك الصحية."
+      },
+      {
+        "title": "السياق النمساوي",
+        "text": "Kassenarzt، Wahlarzt، الإحالة — جميع المحتويات تشير إلى النظام الصحي النمساوي."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "بحث سريع",
+    "items": [
+      "ألم في البطن",
+      "طفح جلدي",
+      "صداع",
+      "ألم في المفاصل",
+      "طفل مريض",
+      "أمراض نادرة",
+      "طبيب تأمين أم خاص؟",
+      "الصحة النفسية"
+    ]
+  },
+  "howItWorks": {
+    "heading": "كيف يعمل WohinMedizin.at",
+    "subheading": "ثلاث خطوات من الغموض إلى التوجيه — دون وعود تشخيصية.",
+    "steps": [
+      {
+        "title": "أدخل شكواك أو سؤالك",
+        "text": "صف شكواك باختصار. يساعد WohinMedizin Navigator في التصنيف."
+      },
+      {
+        "title": "احصل على توجيه واضح",
+        "text": "ستحصل على تخصصات محتملة ومحتوى ذي صلة وأسئلة لموعدك الطبي القادم."
+      },
+      {
+        "title": "ابحث عن الخطوة التالية",
+        "text": "نقاط الاتصال والمتخصصون والمعلومات المراجَعة — كل ذلك في مكان واحد."
+      }
+    ],
+    "cta": "ابدأ البحث عن إرشاد الآن"
+  },
+  "specialtiesSection": {
+    "heading": "التخصصات الطبية مُشرَحة بإيجاز",
+    "subheading": "متى يكون أي تخصص مناسباً؟ أي نقطة اتصال تناسب شكواك؟",
+    "allLink": "عرض جميع التخصصات",
+    "items": [
+      { "name": "الطب العام", "sub": "نقطة الاتصال الأولى للأعراض غير الواضحة", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "الأمراض الجلدية", "sub": "الجلد والشعر والأظافر", "href": "/fachrichtungen/dermatologie" },
+      { "name": "جراحة العظام", "sub": "العظام والمفاصل والعضلات", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "الروماتولوجيا", "sub": "الأمراض الالتهابية", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "طب الأعصاب", "sub": "الجهاز العصبي والدماغ", "href": "/fachrichtungen/neurologie" },
+      { "name": "الطب الباطني", "sub": "الأعضاء الداخلية والأمراض المزمنة", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "الطب النفسي", "sub": "الصحة النفسية", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "طب الأطفال", "sub": "الرعاية الطبية للأطفال", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin الأمراض النادرة",
+    "heading": "عندما يكون الطريق أطول، يلزم توجيه أفضل.",
+    "text": "عندما تظل الأعراض غير مُفسَّرة لفترة طويلة، يجمع WohinMedizin الأمراض النادرة المعلومات ونقاط الاتصال المتخصصة والأسئلة للموعد الطبي القادم.",
+    "cta": "انتقل إلى WohinMedizin الأمراض النادرة"
+  },
+  "faqsSection": {
+    "heading": "أسئلة صحية شائعة",
+    "subheading": "إجابات مفهومة على الأسئلة الشائعة حول النظام الصحي النمساوي.",
+    "items": [
+      { "q": "متى تزور طبيب الجلد؟", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "متى تزور طبيب الروماتولوجيا؟", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "متى يكفي الطبيب العام؟", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "طبيب التأمين مقابل الطبيب الخاص — الفرق", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "كيف تعمل الإحالة؟", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "متى تطلب مساعدة طبية عاجلة؟", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "للأطباء ومزودي الرعاية الصحية",
+    "heading": "كن مرئياً حيث يُبحث عن الإرشاد الطبي.",
+    "description": "يربط WohinMedizin.at المعلومات الصحية المراجَعة بملفات المتخصصين الشخصية. قدِّم مجالات تركيزك وخدماتك وبيانات عيادتك حيث يبحث الناس بنشاط عن إرشادات حول الأعراض والتخصصات.",
+    "features": [
+      "ملف شخصي متخصص موثَّق",
+      "الظهور في مجالات الموضوعات ذات الصلة",
+      "عرض مجالات التركيز المتخصصة",
+      "إمكانية الاكتشاف الإقليمي",
+      "لا عمولة حجز"
+    ],
+    "cta": "إنشاء ملف شخصي",
+    "profiles": [
+      { "label": "الملف الأساسي", "detail": "مجاني — بيانات أساسية وتخصص وجهة اتصال" },
+      { "label": "الملف الموثَّق", "detail": "معلومات مراجَعة ومجالات تركيز وشعار" },
+      { "label": "ملف شخصي Plus", "detail": "الظهور في المقالات والمواضيع ذات الصلة" }
+    ]
+  },
+  "partnerNote": "بعض مجالات الموضوعات مدعومة من شركاء. تقع المسؤولية التحريرية على WohinMedizin.at. محتوى الشركاء مُعلَّم بوضوح ولا يؤثر على نتائج الإرشاد.",
+  "mobileCta": {
+    "startOrientation": "ابحث عن إرشاد",
+    "callLabel": "اتصل"
+  },
+  "footer": {
+    "tagline": "اعرف أين تتوجه\nلأسئلتك الصحية.",
+    "themesHeading": "المواضيع",
+    "platformHeading": "المنصة",
+    "legalHeading": "قانوني",
+    "symptoms": "الأعراض",
+    "diseases": "الأمراض",
+    "specialties": "التخصصات",
+    "rare": "الأمراض النادرة",
+    "healthSystem": "النظام الصحي النمساوي",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "للأطباء",
+    "forPartners": "للشركاء",
+    "about": "عن WohinMedizin.at",
+    "privacy": "سياسة الخصوصية",
+    "imprint": "Impressum",
+    "terms": "شروط الاستخدام",
+    "copyright": "© 2026 WohinMedizin.at. لا تشخيص. لا مشورة طبية.",
+    "checkedContent": "محتوى مراجَع. السياق الصحي النمساوي."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "إلى أين يجب أن أتوجه؟",
+    "description": "صف شكواك — سنريك نقاط الاتصال الأولى المحتملة. لا تشخيص، لا حكم. توجيه أولي.",
+    "placeholder": "مثال: أعاني من صداع منذ أسبوعين، خاصة في الصباح. أحياناً أشعر بدوار أيضاً.",
+    "charCount": "{count} حرف",
+    "inputHint": "يرجى الوصف باللغة الألمانية أو الإنجليزية",
+    "analyzing": "جارٍ التحليل…",
+    "submit": "احصل على إرشاد",
+    "loadingText": "جارٍ إعداد التوجيه…",
+    "firstContactLabel": "نقطة الاتصال الأولى",
+    "specialtiesLabel": "التخصصات المحتملة",
+    "redFlagsLabel": "اذهب للطبيب فوراً إذا…",
+    "nextStepsLabel": "الخطوات التالية",
+    "newQuery": "أدخل شكوى جديدة",
+    "noStorage": "لا يتم حفظ إدخالك. لا تشخيص، لا قرار طبي آلي. لا يؤثر الرعاية على النتائج.",
+    "errorFallback": "حدث خطأ.",
+    "noResponse": "لم يتم تلقي أي رد."
+  },
+  "specialist": {
+    "verifiedProfile": "ملف موثَّق",
+    "callPractice": "الاتصال بالعيادة",
+    "visitWebsite": "زيارة الموقع الإلكتروني",
+    "focusAreasHeading": "مجالات العلاج",
+    "appointmentHeading": "كيف يسير موعدك",
+    "insuranceHeading": "التكاليف وحالة التأمين",
+    "insuranceNote": "أحضر إلى الموعد الأول النتائج الطبية الموجودة وقائمة الأدوية الحالية وبطاقة e-card الخاصة بك. لأسئلة حول التكاليف والتعويضات، يرجى التواصل مباشرة مع العيادة.",
+    "profileDisclaimer": "هذا الملف مقدَّم من WohinMedizin.at. تستند المعلومات إلى البيانات التي قدمها المزود. لا تتحمل WohinMedizin.at أي مسؤولية عن الدقة والاكتمال. لا يُغني هذا الملف عن الاستشارة الطبية.",
+    "contactHeading": "التواصل والعيادة",
+    "callNow": "اتصل الآن",
+    "allSpecialists": "جميع المتخصصين",
+    "insuranceKasseUndWahl": "Kassenarzt و Wahlarzt",
+    "insuranceKasse": "Kassenarzt",
+    "insuranceWahl": "Wahlarzt",
+    "insurancePrivat": "طبيب خاص"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "اختر اللغة",
+    "currentLanguage": "العربية",
+    "officialGroup": "اللغة الرسمية",
+    "minorityGroup": "لغات الأقليات",
+    "migrationGroup": "لغات المهاجرين",
+    "internationalGroup": "دولي"
+  }
+}

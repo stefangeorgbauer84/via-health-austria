@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — Viete, kam sa obrátiť so zdravotnými otázkami.",
+    "description": "WohinMedizin.at vám pomáha lepšie pochopiť ťažkosti, rozpoznať príslušnú lekársku špecializáciu a nájsť vhodných poskytovateľov zdravotnej starostlivosti v Rakúsku."
+  },
+  "nav": {
+    "symptoms": "Príznaky",
+    "diseases": "Choroby",
+    "specialties": "Špecializácie",
+    "rare": "Vzácne ochorenia",
+    "forDoctors": "Pre lekárov",
+    "startOrientation": "Nájdite rady"
+  },
+  "hero": {
+    "badge": "Zdravotná orientácia pre Rakúsko",
+    "heading": "Viete, kam sa obrátiť s",
+    "headingAccent": "zdravotnými otázkami.",
+    "description": "WohinMedizin.at vám pomáha lepšie pochopiť ťažkosti, rozpoznať príslušnú lekársku špecializáciu a nájsť vhodných poskytovateľov zdravotnej starostlivosti v Rakúsku.",
+    "ctaPrimary": "Nájdite rady",
+    "ctaSecondary": "Preskúmajte zdravotné témy",
+    "noDiagnosis": "Žiadna diagnóza",
+    "noRegistration": "Registrácia nie je povinná",
+    "checkedContent": "Overený obsah",
+    "austrianContext": "Rakúsky kontext"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Žiadna diagnóza",
+        "text": "WohinMedizin.at vysvetľuje a orientuje. Lekársku diagnózu stanoví váš lekár."
+      },
+      {
+        "title": "Overený obsah",
+        "text": "Lekársky obsah je redakčne kontrolovaný, opatrený zdrojmi a pravidelne aktualizovaný."
+      },
+      {
+        "title": "Ochrana súkromia",
+        "text": "Veľa obsahu je dostupného bez registrácie. Žiadna reklama na základe vašich zdravotných dát."
+      },
+      {
+        "title": "Rakúsky kontext",
+        "text": "Kassenarzt, Wahlarzt, žiadanka — všetok obsah sa vzťahuje na rakúsky zdravotný systém."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "Rýchle vyhľadávanie",
+    "items": [
+      "Bolesti brucha",
+      "Kožná vyrážka",
+      "Bolesti hlavy",
+      "Bolesti kĺbov",
+      "Choré dieťa",
+      "Vzácne ochorenia",
+      "Poisťovňový alebo súkromný lekár?",
+      "Duševné zdravie"
+    ]
+  },
+  "howItWorks": {
+    "heading": "Ako funguje WohinMedizin.at",
+    "subheading": "Tri kroky od neistoty k orientácii — bez diagnostických sľubov.",
+    "steps": [
+      {
+        "title": "Zadajte svoju ťažkosť alebo otázku",
+        "text": "Stručne popíšte svoju ťažkosť. WohinMedizin Navigator pomáha s kategorizáciou."
+      },
+      {
+        "title": "Získajte jasnú orientáciu",
+        "text": "Dostanete možné špecializácie, relevantný obsah a otázky na ďalšiu lekársku návštevu."
+      },
+      {
+        "title": "Nájdite ďalší krok",
+        "text": "Kontaktné miesta, špecialisti a overené informácie — všetko na jednom mieste."
+      }
+    ],
+    "cta": "Začnite hľadať rady teraz"
+  },
+  "specialtiesSection": {
+    "heading": "Lekárske špecializácie jednoducho vysvetlené",
+    "subheading": "Kedy je ktorá špecializácia relevantná? Ktoré kontaktné miesto zodpovedá vašej ťažkosti?",
+    "allLink": "Zobraziť všetky špecializácie",
+    "items": [
+      { "name": "Všeobecné lekárstvo", "sub": "Prvý kontaktný bod pri nejasných príznakoch", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "Dermatológia", "sub": "Koža, vlasy, nechty", "href": "/fachrichtungen/dermatologie" },
+      { "name": "Ortopédia", "sub": "Kosti, kĺby, svaly", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "Reumatológia", "sub": "Zápalové ochorenia", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "Neurológia", "sub": "Nervový systém a mozog", "href": "/fachrichtungen/neurologie" },
+      { "name": "Vnútorné lekárstvo", "sub": "Vnútorné orgány, chronické ochorenia", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "Psychiatria", "sub": "Duševné zdravie", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "Pediatria", "sub": "Lekárska starostlivosť pre deti", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin Vzácne ochorenia",
+    "heading": "Keď je cesta dlhšia, potrebná je lepšia orientácia.",
+    "text": "Keď ťažkosti zostávajú dlho nevysvetlené, WohinMedizin Vzácne ochorenia zhromažďuje informácie, špecializované kontaktné miesta a otázky na ďalšiu lekársku návštevu.",
+    "cta": "Prejsť na WohinMedizin Vzácne ochorenia"
+  },
+  "faqsSection": {
+    "heading": "Časté zdravotné otázky",
+    "subheading": "Zrozumiteľné odpovede na časté nejasnosti ohľadom rakúskeho zdravotného systému.",
+    "items": [
+      { "q": "Kedy k dermatológovi?", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "Kedy k reumatológovi?", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "Kedy stačí praktický lekár?", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "Poisťovňový vs. súkromný lekár — rozdiel", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "Ako funguje žiadanka?", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "Kedy rýchlo vyhľadať lekársku pomoc?", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "Pre lekárov a poskytovateľov zdravotnej starostlivosti",
+    "heading": "Viditeľní tam, kde sa hľadá lekárska orientácia.",
+    "description": "WohinMedizin.at prepája overené zdravotné informácie s profilmi špecialistov. Prezentujte svoje odborné zamerania, služby a dáta ordinácie tam, kde ľudia aktívne hľadajú orientáciu ohľadom ťažkostí a špecializácií.",
+    "features": [
+      "Overený profil špecialistu",
+      "Viditeľnosť v príslušných tematických oblastiach",
+      "Prezentácia odborných zameraní",
+      "Regionálna dohľadateľnosť",
+      "Žiadna provízia za rezervácie"
+    ],
+    "cta": "Vytvoriť profil",
+    "profiles": [
+      { "label": "Základný profil", "detail": "Zadarmo — základné dáta, špecializácia, kontakt" },
+      { "label": "Overený profil", "detail": "Skontrolované informácie, odborné zamerania, logo" },
+      { "label": "Profil špecialistu Plus", "detail": "Viditeľnosť v príslušných článkoch a témach" }
+    ]
+  },
+  "partnerNote": "Niektoré tematické oblasti sú podporované partnermi. Redakčná zodpovednosť leží na WohinMedizin.at. Partnerský obsah je jasne označený a neovplyvňuje výsledky orientácie.",
+  "mobileCta": {
+    "startOrientation": "Nájdite rady",
+    "callLabel": "Zavolať"
+  },
+  "footer": {
+    "tagline": "Viete, kam sa obrátiť\nso zdravotnými otázkami.",
+    "themesHeading": "Témy",
+    "platformHeading": "Platforma",
+    "legalHeading": "Právne",
+    "symptoms": "Príznaky",
+    "diseases": "Choroby",
+    "specialties": "Špecializácie",
+    "rare": "Vzácne ochorenia",
+    "healthSystem": "Rakúsky zdravotný systém",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "Pre lekárov",
+    "forPartners": "Pre partnerov",
+    "about": "O WohinMedizin.at",
+    "privacy": "Ochrana údajov",
+    "imprint": "Impressum",
+    "terms": "Podmienky používania",
+    "copyright": "© 2026 WohinMedizin.at. Žiadna diagnóza. Žiadne lekárske poradenstvo.",
+    "checkedContent": "Overený obsah. Rakúsky zdravotný kontext."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "Kam sa mám obrátiť?",
+    "description": "Popíšte svoju ťažkosť — ukážeme vám možné prvé kontaktné miesta. Žiadna diagnóza, žiadne hodnotenie. Počiatočná orientácia.",
+    "placeholder": "napr. Mám bolesti hlavy už dva týždne, hlavne ráno. Niekedy aj závraty.",
+    "charCount": "{count} znakov",
+    "inputHint": "Prosím, popíšte po nemecky alebo anglicky",
+    "analyzing": "Analyzovanie…",
+    "submit": "Získať orientáciu",
+    "loadingText": "Príprava orientácie…",
+    "firstContactLabel": "Prvé kontaktné miesto",
+    "specialtiesLabel": "Možné špecializácie",
+    "redFlagsLabel": "Ihneď k lekárovi ak…",
+    "nextStepsLabel": "Ďalšie kroky",
+    "newQuery": "Zadajte novú ťažkosť",
+    "noStorage": "Váš vstup nie je ukladaný. Žiadna diagnóza, žiadne automatizované lekárske rozhodnutie. Sponzorstvo neovplyvňuje výsledky.",
+    "errorFallback": "Došlo k chybe.",
+    "noResponse": "Nebola prijatá žiadna odpoveď."
+  },
+  "specialist": {
+    "verifiedProfile": "Overený profil",
+    "callPractice": "Zavolajte do ordinácie",
+    "visitWebsite": "Navštívte webovú stránku",
+    "focusAreasHeading": "Oblasti liečby",
+    "appointmentHeading": "Ako prebieha vaša návšteva",
+    "insuranceHeading": "Náklady a poisťovací status",
+    "insuranceNote": "Na prvú návštevu prineste existujúce nálezy, aktuálny zoznam liekov a svoju e-card. Otázky ohľadom nákladov a úhrad smerujte priamo na ordináciu.",
+    "profileDisclaimer": "Tento profil poskytuje WohinMedizin.at. Údaje vychádzajú z informácií poskytnutých poskytovateľom. WohinMedizin.at nepreberá zodpovednosť za správnosť a úplnosť. Tento profil nenahrádza lekársku konzultáciu.",
+    "contactHeading": "Kontakt a ordinácia",
+    "callNow": "Zavolajte teraz",
+    "allSpecialists": "Všetci špecialisti",
+    "insuranceKasseUndWahl": "Poisťovňový a súkromný lekár",
+    "insuranceKasse": "Poisťovňový lekár",
+    "insuranceWahl": "Súkromný lekár",
+    "insurancePrivat": "Súkromný lekár"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Vyberte jazyk",
+    "currentLanguage": "Slovenčina",
+    "officialGroup": "Úradný jazyk",
+    "minorityGroup": "Menšinové jazyky",
+    "migrationGroup": "Jazyky migrácie",
+    "internationalGroup": "Medzinárodný"
+  }
+}

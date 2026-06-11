@@ -1,25 +1,21 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
-import "./globals.css";
+import { headers } from 'next/headers'
+import { Inter } from 'next/font/google'
+import './globals.css'
 
 const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
-  display: "swap",
-});
+  variable: '--font-inter',
+  subsets: ['latin', 'latin-ext', 'cyrillic', 'cyrillic-ext'],
+  display: 'swap',
+})
 
-export const metadata: Metadata = {
-  title: "WohinMedizin.at — Wissen, wohin bei Gesundheitsfragen.",
-  description:
-    "WohinMedizin.at hilft dir, Beschwerden besser zu verstehen, passende Fachrichtungen zu erkennen und geeignete medizinische Anlaufstellen in Österreich zu finden.",
-};
+export default async function RootLayout({ children }: { children: React.ReactNode }) {
+  const headersList = await headers()
+  const locale = headersList.get('x-next-intl-locale') || 'de'
+  const dir = locale === 'ar' ? 'rtl' : 'ltr'
 
-export default function RootLayout({
-  children,
-}: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="de" className={`${inter.variable} h-full`}>
+    <html lang={locale} dir={dir} className={`${inter.variable} h-full`} suppressHydrationWarning>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
-  );
+  )
 }

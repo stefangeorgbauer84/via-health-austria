@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — Sağlık sorularınızda nereye gideceğinizi bilin.",
+    "description": "WohinMedizin.at semptomlarınızı daha iyi anlamanıza, doğru tıbbi uzmanlığı tanımlamanıza ve Avusturya'da uygun sağlık hizmeti sağlayıcılarını bulmanıza yardımcı olur."
+  },
+  "nav": {
+    "symptoms": "Belirtiler",
+    "diseases": "Hastalıklar",
+    "specialties": "Uzmanlıklar",
+    "rare": "Nadir Hastalıklar",
+    "forDoctors": "Doktorlar İçin",
+    "startOrientation": "Yönlendirme Bul"
+  },
+  "hero": {
+    "badge": "Avusturya için tıbbi yönlendirme",
+    "heading": "Sağlık sorularınızda",
+    "headingAccent": "nereye gideceğinizi bilin.",
+    "description": "WohinMedizin.at semptomlarınızı daha iyi anlamanıza, doğru tıbbi uzmanlığı tanımlamanıza ve Avusturya'da uygun sağlık hizmeti sağlayıcılarını bulmanıza yardımcı olur.",
+    "ctaPrimary": "Yönlendirme Bul",
+    "ctaSecondary": "Sağlık konularını keşfet",
+    "noDiagnosis": "Teşhis Yok",
+    "noRegistration": "Kayıt Zorunlu Değil",
+    "checkedContent": "İncelenmiş İçerikler",
+    "austrianContext": "Avusturya Bağlamı"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Teşhis Yok",
+        "text": "WohinMedizin.at açıklar ve yönlendirir. Tıbbi teşhis doktorunuzdan gelir."
+      },
+      {
+        "title": "İncelenmiş İçerikler",
+        "text": "Tıbbi içerikler editoryal olarak incelenir, kaynak gösterilir ve düzenli olarak güncellenir."
+      },
+      {
+        "title": "Gizlilik Dostu",
+        "text": "Pek çok içerik kayıt olmadan erişilebilir. Sağlık verilerinize dayalı reklam yoktur."
+      },
+      {
+        "title": "Avusturya Bağlamı",
+        "text": "Kassenarzt, Wahlarzt, sevk — tüm içerikler Avusturya sağlık sistemine atıfta bulunur."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "Hızlı Arama",
+    "items": [
+      "Karın ağrısı",
+      "Cilt döküntüsü",
+      "Baş ağrısı",
+      "Eklem ağrısı",
+      "Hasta çocuk",
+      "Nadir hastalıklar",
+      "Sigortalı mı özel mi?",
+      "Ruh sağlığı"
+    ]
+  },
+  "howItWorks": {
+    "heading": "WohinMedizin.at Nasıl Çalışır",
+    "subheading": "Belirsizlikten yönlendirmeye üç adım — teşhis vaadi olmadan.",
+    "steps": [
+      {
+        "title": "Şikayetinizi veya sorunuzu girin",
+        "text": "Şikayetinizi kısaca açıklayın. WohinMedizin Navigator kategorizasyona yardımcı olur."
+      },
+      {
+        "title": "Net yönlendirme alın",
+        "text": "Olası uzmanlıklar, ilgili içerikler ve sonraki doktor ziyareti için sorular alırsınız."
+      },
+      {
+        "title": "Sonraki adımı bulun",
+        "text": "Başvuru noktaları, uzmanlar ve incelenmiş bilgiler — hepsi bir arada."
+      }
+    ],
+    "cta": "Şimdi Yönlendirme Bul"
+  },
+  "specialtiesSection": {
+    "heading": "Tıbbi uzmanlıklar basitçe açıklandı",
+    "subheading": "Hangi uzmanlık ne zaman uygundur? Hangi başvuru noktası sorununuza uyuyor?",
+    "allLink": "Tüm uzmanlıkları görüntüle",
+    "items": [
+      { "name": "Genel Tıp", "sub": "Belirsiz belirtiler için ilk başvuru noktası", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "Dermatoloji", "sub": "Cilt, saç, tırnaklar", "href": "/fachrichtungen/dermatologie" },
+      { "name": "Ortopedi", "sub": "Kemikler, eklemler, kaslar", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "Romatoloji", "sub": "İltihaplı hastalıklar", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "Nöroloji", "sub": "Sinir sistemi ve beyin", "href": "/fachrichtungen/neurologie" },
+      { "name": "İç Hastalıkları", "sub": "İç organlar, kronik hastalıklar", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "Psikiyatri", "sub": "Ruh sağlığı", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "Pediatri", "sub": "Çocuklar için tıbbi bakım", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin Nadir Hastalıklar",
+    "heading": "Yol daha uzun olduğunda, daha iyi yönlendirmeye ihtiyaç vardır.",
+    "text": "Belirtiler uzun süre açıklanamaz kaldığında, WohinMedizin Nadir Hastalıklar bilgileri, uzmanlaşmış başvuru noktalarını ve sonraki doktor randevusu için soruları bir araya getirir.",
+    "cta": "WohinMedizin Nadir Hastalıklara git"
+  },
+  "faqsSection": {
+    "heading": "Sık Sorulan Sağlık Soruları",
+    "subheading": "Avusturya sağlık sistemiyle ilgili sık sorulan sorulara anlaşılır yanıtlar.",
+    "items": [
+      { "q": "Deri uzmanına ne zaman gidilir?", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "Romatoloğa ne zaman gidilir?", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "Aile hekimi ne zaman yeterlidir?", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "Sigortalı vs. özel doktor — fark", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "Sevk nasıl çalışır?", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "Ne zaman acil tıbbi yardım aranır?", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "Doktorlar ve Sağlık Sağlayıcıları İçin",
+    "heading": "Tıbbi yönlendirmenin arandığı yerde görünür olun.",
+    "description": "WohinMedizin.at, incelenmiş sağlık bilgilerini uzman profilleriyle birleştirir. Odak alanlarınızı, hizmetlerinizi ve muayene bilgilerinizi insanların semptomlar ve uzmanlıklar hakkında aktif olarak yönlendirme aradığı yerde sunun.",
+    "features": [
+      "Doğrulanmış uzman profili",
+      "İlgili konu alanlarında görünürlük",
+      "Uzman odak alanlarının sunumu",
+      "Bölgesel bulunabilirlik",
+      "Rezervasyon komisyonu yok"
+    ],
+    "cta": "Profil Oluştur",
+    "profiles": [
+      { "label": "Temel profil", "detail": "Ücretsiz — temel veriler, uzmanlık, iletişim" },
+      { "label": "Doğrulanmış profil", "detail": "İncelenmiş bilgiler, odak alanları, logo" },
+      { "label": "Uzman Profil Plus", "detail": "İlgili makalelerde ve konularda görünürlük" }
+    ]
+  },
+  "partnerNote": "Bazı konu alanları ortaklar tarafından desteklenmektedir. Editoryal sorumluluk WohinMedizin.at'ye aittir. Ortak içerikler açıkça etiketlenir ve yönlendirme sonuçlarını etkilemez.",
+  "mobileCta": {
+    "startOrientation": "Yönlendirme Bul",
+    "callLabel": "Ara"
+  },
+  "footer": {
+    "tagline": "Sağlık sorularınızda\nnereye gideceğinizi bilin.",
+    "themesHeading": "Konular",
+    "platformHeading": "Platform",
+    "legalHeading": "Hukuki",
+    "symptoms": "Belirtiler",
+    "diseases": "Hastalıklar",
+    "specialties": "Uzmanlıklar",
+    "rare": "Nadir Hastalıklar",
+    "healthSystem": "Avusturya Sağlık Sistemi",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "Doktorlar İçin",
+    "forPartners": "Ortaklar İçin",
+    "about": "WohinMedizin.at Hakkında",
+    "privacy": "Gizlilik Politikası",
+    "imprint": "Impressum",
+    "terms": "Kullanım Koşulları",
+    "copyright": "© 2026 WohinMedizin.at. Teşhis yok. Tıbbi tavsiye yok.",
+    "checkedContent": "İncelenmiş içerikler. Avusturya sağlık bağlamı."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "Nereye başvurmalıyım?",
+    "description": "Şikayetinizi açıklayın — size olası ilk başvuru noktalarını göstereceğiz. Teşhis yok, yargılama yok. Başlangıç yönlendirmesi.",
+    "placeholder": "ör. İki haftadır baş ağrım var, özellikle sabahları. Bazen baş dönmesi de.",
+    "charCount": "{count} karakter",
+    "inputHint": "Lütfen Almanca veya İngilizce açıklayın",
+    "analyzing": "Analiz ediliyor…",
+    "submit": "Yönlendirme Al",
+    "loadingText": "Yönlendirme hazırlanıyor…",
+    "firstContactLabel": "İlk başvuru noktası",
+    "specialtiesLabel": "Olası uzmanlıklar",
+    "redFlagsLabel": "Hemen doktora gidin eğer…",
+    "nextStepsLabel": "Sonraki adımlar",
+    "newQuery": "Yeni şikayet girin",
+    "noStorage": "Girişiniz saklanmaz. Teşhis yok, otomatik tıbbi karar yok. Sponsorluk sonuçları etkilemez.",
+    "errorFallback": "Bir hata oluştu.",
+    "noResponse": "Yanıt alınamadı."
+  },
+  "specialist": {
+    "verifiedProfile": "Doğrulanmış profil",
+    "callPractice": "Muayenehaneyi ara",
+    "visitWebsite": "Web sitesini ziyaret et",
+    "focusAreasHeading": "Tedavi odak alanları",
+    "appointmentHeading": "Randevunuz nasıl gerçekleşir",
+    "insuranceHeading": "Maliyetler ve sigorta durumu",
+    "insuranceNote": "İlk randevuya mevcut tıbbi raporlarınızı, güncel ilaç listenizi ve e-card kartınızı getirin. Maliyetler ve geri ödeme hakkındaki sorularınız için lütfen doğrudan muayenehaneye başvurun.",
+    "profileDisclaimer": "Bu profil WohinMedizin.at tarafından sağlanmaktadır. Bilgiler, sağlayıcı tarafından verilen bilgilere dayanmaktadır. WohinMedizin.at, doğruluk ve eksiksizlik konusunda sorumluluk kabul etmez. Bu profil tıbbi danışmanlığın yerini tutmaz.",
+    "contactHeading": "İletişim ve Muayenehane",
+    "callNow": "Şimdi ara",
+    "allSpecialists": "Tüm uzmanlar",
+    "insuranceKasseUndWahl": "Kassenarzt ve Wahlarzt",
+    "insuranceKasse": "Kassenarzt",
+    "insuranceWahl": "Wahlarzt",
+    "insurancePrivat": "Özel doktor"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Dil Seç",
+    "currentLanguage": "Türkçe",
+    "officialGroup": "Resmi dil",
+    "minorityGroup": "Azınlık dilleri",
+    "migrationGroup": "Göçmen dilleri",
+    "internationalGroup": "Uluslararası"
+  }
+}

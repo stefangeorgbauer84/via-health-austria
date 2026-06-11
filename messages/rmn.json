@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "WohinMedizin.at — Jan kote te dźas le svastipaske puchimata.",
+    "description": "WohinMedizin.at del tuke duma te samźes tiri nasvalipen, te arakhes sar specialnostura si zorales, thai te dźas ko sasto foro ko Austria."
+  },
+  "nav": {
+    "symptoms": "Simptomia",
+    "diseases": "Nasvalipen",
+    "specialties": "Specialnostura",
+    "rare": "Chhib nasvalipena",
+    "forDoctors": "Doktorenge",
+    "startOrientation": "Arakhel drom"
+  },
+  "hero": {
+    "badge": "Mediciniako drom ko Austria",
+    "heading": "Jan kote te dźas le",
+    "headingAccent": "svastipaske puchimata.",
+    "description": "WohinMedizin.at del tuke duma te samźes tiri nasvalipen, te arakhes sar specialnostura si zorales, thai te dźas ko sasto foro ko Austria.",
+    "ctaPrimary": "Arakhel drom",
+    "ctaSecondary": "Del duma svastipaske temura",
+    "noDiagnosis": "Bi diagnoza",
+    "noRegistration": "Registracia ni obligatoria",
+    "checkedContent": "Xramosarde informacie",
+    "austrianContext": "Austriako kontexto"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Bi diagnoza",
+        "text": "WohinMedizin.at phenel thai sikavel. O doktori dela tiri diagnoza."
+      },
+      {
+        "title": "Xramosarde informacie",
+        "text": "Mediciniake informacie si kontrolime, si len izvorea thai regularno aktualizime."
+      },
+      {
+        "title": "Zastitipe privatnostiako",
+        "text": "Baro khosht informaciendar si lene bi registraciako. Ni si reklama pala tiri svastipaski data."
+      },
+      {
+        "title": "Austriako kontexto",
+        "text": "Kassenarzt, Wahlarzt, uputnica — sa informacie si pala austriako zdravstveno sistema."
+      }
+    ]
+  },
+  "quickTopics": {
+    "heading": "Sikro arakhipen",
+    "items": [
+      "Dukhipen pe per",
+      "Phuv pe mri",
+      "Sherutni dukh",
+      "Dukhipen pe kovlia",
+      "Naslo chavo",
+      "Chhib nasvalipena",
+      "Kassenarzt vaj privatno doktori?",
+      "Mentalno svastipen"
+    ]
+  },
+  "howItWorks": {
+    "heading": "Sar but khelel WohinMedizin.at",
+    "subheading": "Trin stepura katar nesigurnostiako drom ko orientacia — bi diagnozaske vakerimasqe.",
+    "steps": [
+      {
+        "title": "Dikh tiri nasvalipen vaj puchipe",
+        "text": "Sikhhatar tiri nasvalipen. WohinMedizin Navigator pomahal ko kategorizacia."
+      },
+      {
+        "title": "Arakhes safi orientacia",
+        "text": "Lesa mogliche specialnostura, relevantne informacie thai puchimata ko nasvo doktori."
+      },
+      {
+        "title": "Arakhes o nasvo stepas",
+        "text": "Kontaktimaske phuvia, specialistura thai xramosarde informacie — sa ko jekh than."
+      }
+    ],
+    "cta":": Arakhes drom akana"
+  },
+  "specialtiesSection": {
+    "heading": "Mediciniake specialnostura lacho phenel",
+    "subheading": "Kana si savo specialnostura zorales? Savi kontaktimaski phuv si tiri nasvalipenake?",
+    "allLink": "Dikh sa specialnostura",
+    "items": [
+      { "name": "Generalno medicinia", "sub": "Phuri kontaktimaski phuv ko neklear simptomia", "href": "/fachrichtungen/allgemeinmedizin" },
+      { "name": "Dermatologia", "sub": "Mri, bal, nagi", "href": "/fachrichtungen/dermatologie" },
+      { "name": "Ortopedia", "sub": "Kokala, kovlia, muschia", "href": "/fachrichtungen/orthopaedie" },
+      { "name": "Reumatologia", "sub": "Upalno nasvalipena", "href": "/fachrichtungen/rheumatologie" },
+      { "name": "Neurologia", "sub": "Nervono sistema thai morro", "href": "/fachrichtungen/neurologie" },
+      { "name": "Interna medicinia", "sub": "Andral organa, kronikane nasvalipena", "href": "/fachrichtungen/innere-medizin" },
+      { "name": "Psihiatria", "sub": "Mentalno svastipen", "href": "/fachrichtungen/psychiatrie" },
+      { "name": "Pediatria", "sub": "Mediciniaki njega chavorrenge", "href": "/fachrichtungen/kinderheilkunde" }
+    ]
+  },
+  "rareSection": {
+    "badge": "WohinMedizin Chhib nasvalipena",
+    "heading": "Kana o drom si dureder, si zarebno mai lachi orientacia.",
+    "text": "Kana nasvalipen phiral duri nesamźardo, WohinMedizin Chhib nasvalipena del informacie, specializovano kontaktimaske phuvia thai puchimata ko nasvo doktori.",
+    "cta": "Dźa ko WohinMedizin Chhib nasvalipena"
+  },
+  "faqsSection": {
+    "heading": "Baro svastipaske puchimata",
+    "subheading": "Samźarinde responzuria ko baro puchimata pala austriako svastipasko sistema.",
+    "items": [
+      { "q": "Kana ko dermatologos?", "href": "/wissen/wann-zur-dermatologie" },
+      { "q": "Kana ko reumatologos?", "href": "/wissen/wann-zur-rheumatologie" },
+      { "q": "Kana si basi o generalno doktori?", "href": "/wissen/wann-reicht-die-hausaerztin" },
+      { "q": "Kassenarzt vaj privatno doktori — e farka", "href": "/wissen/kassenarzt-wahlarzt-unterschied" },
+      { "q": "Sar khelel o uputnica?", "href": "/wissen/ueberweisung-oesterreich" },
+      { "q": "Kana zorales arakhes mediciniaki pomoc?", "href": "/wissen/wann-rasch-medizinische-hilfe" }
+    ]
+  },
+  "forDoctorsSection": {
+    "badge": "Doktorenge thai svastipaske ustanova",
+    "heading": "Dikhel pes kote si zarebo mediciniako drom.",
+    "description": "WohinMedizin.at zavel xramosarde svastipaska informacie ko specialistenge profile. Sikav tiri odbornostura, usluge thai ordinaciake data kote manusha zorales dukhanen drom pala nasvalipen thai specialnostura.",
+    "features": [
+      "Verificirano profilo specialistake",
+      "Dikhipen ko relevantne temura",
+      "Sikavel specialne odbornostura",
+      "Regionalno arakhipen",
+      "Bi proviziaske rezervaciako"
+    ],
+    "cta": "Krel profilo",
+    "profiles": [
+      { "label": "Bazikano profilo", "detail": "Bezmuki — bazikane data, specialnostura, kontakto" },
+      { "label": "Verificirano profilo", "detail": "Xramosarde informacie, odbornostura, logo" },
+      { "label": "Specialistako profilo Plus", "detail": "Dikhipen ko relevantne artikela thai temura" }
+    ]
+  },
+  "partnerNote": "Khetane temurake phuvia si sustinime partnerstiatar. O redakciako zoralipe si WohinMedizin.at-ke. Partnerskane informacie si safi oznachime thai ni influencinel rezultaturia orientaciaske.",
+  "mobileCta": {
+    "startOrientation": "Arakhel drom",
+    "callLabel": "Vaker"
+  },
+  "footer": {
+    "tagline": "Jan kote te dźas\nle svastipaske puchimata.",
+    "themesHeading": "Temura",
+    "platformHeading": "Platforma",
+    "legalHeading": "Legalno",
+    "symptoms": "Simptomia",
+    "diseases": "Nasvalipen",
+    "specialties": "Specialnostura",
+    "rare": "Chhib nasvalipena",
+    "healthSystem": "Austriako svastipasko sistema",
+    "navigatorLink": "WohinMedizin Navigator",
+    "forDoctors": "Doktorenge",
+    "forPartners": "Partnerstienge",
+    "about": "Pala WohinMedizin.at",
+    "privacy": "Zastitipe dataske",
+    "imprint": "Impressum",
+    "terms": "Kondiciia koristimaske",
+    "copyright": "© 2026 WohinMedizin.at. Bi diagnoza. Bi mediciniako saveto.",
+    "checkedContent": "Xramosarde informacie. Austriako svastipasko kontexto."
+  },
+  "navigator": {
+    "backToHome": "WohinMedizin",
+    "label": "Navigator",
+    "heading": "Kote te dźav?",
+    "description": "Phen tiri nasvalipen — sikavasa tuke mogliche phuri kontaktimaske phuvia. Bi diagnoza, bi ocena. Phuri orientacia.",
+    "placeholder": "nap. Manqe dukhel shero dui kurke, pes visoko dimineaça. Khetane vaj vrtoglavica.",
+    "charCount": "{count} znakuria",
+    "inputHint": "Phen tuki po nemciaki vaj angliciaki chhib",
+    "analyzing": "Analizacia…",
+    "submit": "Arakhes orientacia",
+    "loadingText": "Pregatipen orientaciako…",
+    "firstContactLabel": "Phuri kontaktimaski phuv",
+    "specialtiesLabel": "Mogliche specialnostura",
+    "redFlagsLabel": "Zorales ko doktori te…",
+    "nextStepsLabel": "Nasve stepura",
+    "newQuery": "Del nasvi nasvalipen",
+    "noStorage": "Tiro intrare ni si savdo. Bi diagnoza, bi automatizovano mediciniako odluka. O sponsorstvo ni influencinel rezultaturia.",
+    "errorFallback": "Greska si dzia.",
+    "noResponse": "Responsura ni araklilo."
+  },
+  "specialist": {
+    "verifiedProfile": "Verificirano profilo",
+    "callPractice": "Vaker ordinaciake",
+    "visitWebsite": "Dźa ko web strana",
+    "focusAreasHeading": "Mediciniake odbornostura",
+    "appointmentHeading": "Sar khelel tiro pregled",
+    "insuranceHeading": "Kharchuria thai kasaski situacia",
+    "insuranceNote": "Ko phuro pregled an tuke existente nalaze, aktualno lista liekovuria thai tiri e-card. Ko puchimata pala kharchuria thai povraturia vaker zorales ordinaciake.",
+    "profileDisclaimer": "Akava profilo del WohinMedizin.at. O dáta si palal informacie so del o provajdero. WohinMedizin.at ni lel zoralipen pala shukaripe thai completosipe. Akava profilo ni zavel mediciniako saveto.",
+    "contactHeading": "Kontakto thai ordinacia",
+    "callNow": "Vaker akana",
+    "allSpecialists": "Sa specialistura",
+    "insuranceKasseUndWahl": "Kassenarzt thai Wahlarzt",
+    "insuranceKasse": "Kassenarzt",
+    "insuranceWahl": "Wahlarzt",
+    "insurancePrivat": "Privatno doktori"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Chun chhib",
+    "currentLanguage": "Romani",
+    "officialGroup": "Oficialuno chhib",
+    "minorityGroup": "Minoritetikane chhiba",
+    "migrationGroup": "Migracionikane chhiba",
+    "internationalGroup": "Internacionalo"
+  }
+}
